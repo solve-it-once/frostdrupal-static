@@ -1,0 +1,1799 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+<channel>
+	<title>CNX</title>
+	<link>https://www.cnxcorp.com</link>
+	<description>IBM i Software &#38; Services</description>
+	<pubDate>Tue, 17 Apr 2018 18:20:34 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://www.cnxcorp.com</wp:base_site_url>
+	<wp:base_blog_url>https://www.cnxcorp.com</wp:base_blog_url>
+
+	<wp:author><wp:author_id>5</wp:author_id><wp:author_login><![CDATA[rmilone]]></wp:author_login><wp:author_email><![CDATA[richard.milone@cnxcorp.com]]></wp:author_email><wp:author_display_name><![CDATA[Richard Milone]]></wp:author_display_name><wp:author_first_name><![CDATA[Richard]]></wp:author_first_name><wp:author_last_name><![CDATA[Milone]]></wp:author_last_name></wp:author>
+	<wp:author><wp:author_id>6</wp:author_id><wp:author_login><![CDATA[rswanson]]></wp:author_login><wp:author_email><![CDATA[robert.swanson@cnxcorp.com]]></wp:author_email><wp:author_display_name><![CDATA[Robert Swanson]]></wp:author_display_name><wp:author_first_name><![CDATA[Robert]]></wp:author_first_name><wp:author_last_name><![CDATA[Swanson]]></wp:author_last_name></wp:author>
+	<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[admin]]></wp:author_login><wp:author_email><![CDATA[jreed@cre8media.com]]></wp:author_email><wp:author_display_name><![CDATA[John Reed]]></wp:author_display_name><wp:author_first_name><![CDATA[John]]></wp:author_first_name><wp:author_last_name><![CDATA[Reed]]></wp:author_last_name></wp:author>
+
+
+	<generator>https://wordpress.org/?v=4.9.1</generator>
+
+	<item>
+		<title>Tones, Inc. Implements ATOMIC SF Module</title>
+		<link>https://www.cnxcorp.com/2001/06/04/tones-inc-implements-atomic-sf-module/</link>
+		<pubDate>Mon, 04 Jun 2001 23:14:40 +0000</pubDate>
+		<dc:creator><![CDATA[rmilone]]></dc:creator>
+		<guid isPermaLink="false">https://www.cnxcorp.com/?p=1</guid>
+		<description></description>
+		<content:encoded><![CDATA[<strong>ANKENY, <abbr title="Iowa">IA</abbr></strong>. In a concerted effort to streamline its scheduling and material picking operations, Tone Brothers, makers of Spice Islands, Durkee and Tones brand spices, successfully implemented the ATOMIC SF module at its suburban Des Moines facility on May 21.
+
+Tones uses ATOMIC’s discrete work order scheduler to publish and maintain machine schedules on-line and to interactively predict when jobs will start and finish. The ability to change machine schedules on a moment’s notice, concurrently recalculating work order start dates and times, has transformed the shop floor’s ability to respond quickly to changing customer requirements.
+
+“ATOMIC has improved Tones manufacturing flexibility and communication in the plant, resulting in improved service to our customers,” says Tom Staton, Distribution Manager.
+
+ATOMIC’s production reporting tools are tightly integrated into the machine schedules, which greatly reduces the number of keystrokes necessary to report manufacturing information against work orders. The Tones facility has leveraged this feature to simplify the process of feeding production data to PRMS.
+
+“ATOMIC’s method of production reporting has improved the inventory accuracy of finished goods,” says Staton. “This has allowed us to reduce inventories and decrease the cost of cycle counting and correcting errors.”
+<div class="alert alert-info">
+
+For an interactive demonstration of the latest ATOMIC features, visit the on-line demos section of the CNX web site at www.cnxcorp.com/atomic/demos, or schedule a WebEx demo by calling (312) 251-0840, x102
+
+</div>]]></content:encoded>
+		<excerpt:encoded><![CDATA[In a concerted effort to streamline its scheduling and material picking operation, Tone Brothers, makers of Spice Islands, Durkee and Tones brand spices, successfully implemented the ATOMIC SF module at its suburban Des Moines facility.]]></excerpt:encoded>
+		<wp:post_id>1</wp:post_id>
+		<wp:post_date><![CDATA[2001-06-04 23:14:40]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2001-06-04 23:14:40]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[tones-inc-implements-atomic-sf-module]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="press"><![CDATA[Press]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+			<wp:meta_value><![CDATA[hello-world]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>ATOMIC Version 3.5 Announcement</title>
+		<link>https://www.cnxcorp.com/2006/05/22/atomic-version-3-5-announcement/</link>
+		<pubDate>Mon, 22 May 2006 21:49:43 +0000</pubDate>
+		<dc:creator><![CDATA[rmilone]]></dc:creator>
+		<guid isPermaLink="false">https://www.cnxcorp.com/?p=281</guid>
+		<description></description>
+		<content:encoded><![CDATA[<strong>Chicago, <abbr title="Illinois">IL</abbr></strong>. CNX announced today that it expects to release the newest version of ATOMIC in July 2006. This new release, version 3.5, adds two new modules to the existing ATOMIC product line: ATOMIC Sales &amp; Operations Planning (SOP) and ATOMIC Cycle Counting (CC).
+
+The ATOMIC SOP module assists users in making micro-level production decisions based on forecasts done at various macro-level gross sales categories. The system analyzes forecast and sales information, feeds it to a flexible hierarchical structure and allows for easy manipulation based on input from sales personnel. The resulting “forecast and production plan pyramid” can then be refined by users at any level with relative ease. For example, users can increase output of an entire distribution channel or other hierarchical level by a specific percentage or an across-the-board amount, or they can be more selective and change the output of a single product. The changes are then rolled down, up and across the hierarchy to show impact on multiple areas. The resulting data can be fed into the forecasting workbench to drive manufacturing and procurement plans.
+
+The ATOMIC CC module builds off of the existing <a title="Radio Frequency/Inventory Control" href="http://cnxcorp.com/atomic/modules/rf/">ATOMIC RF module</a>, allowing users to perform highly efficient cycle-count operations without paperwork. Using wireless terminals, users lock a location for cycle counting, enter counts, verify variances and perform adjustments on-the-fly without any complicated setup. Cycle count directives can also be queued up automatically by regular material handlers whenever they come across variances or oddities during the course of picking or moving materials. The ATOMIC RF module is a prerequisite to the ATOMIC CC module.
+
+Look for more information regarding ATOMIC 3.5 in the coming weeks.
+<div class="alert alert-info">For an interactive demonstration of the latest ATOMIC features, visit the on-line demos section of the CNX web site at <a href="http://cnxcorp.com/atomic/demos/">www.cnxcorp.com/atomic/demos</a>, or schedule a WebEx demo by calling (312) 251-0840, x102</div>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>281</wp:post_id>
+		<wp:post_date><![CDATA[2006-05-22 21:49:43]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2006-05-22 21:49:43]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[atomic-version-3-5-announcement]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="press"><![CDATA[Press]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>ATOMIC Version 3.4 Now in General Distribution</title>
+		<link>https://www.cnxcorp.com/2005/08/01/atomic-version-3-4-now-general-distribution/</link>
+		<pubDate>Mon, 01 Aug 2005 21:50:41 +0000</pubDate>
+		<dc:creator><![CDATA[rmilone]]></dc:creator>
+		<guid isPermaLink="false">https://www.cnxcorp.com/?p=283</guid>
+		<description></description>
+		<content:encoded><![CDATA[<strong>Chicago, <abbr title="Illinois">IL</abbr></strong>. CNX announces the general release of version 3.4 of ATOMIC. This new release incorporates compatibility with all versions of PRMS through 10.0 as well as full RF compatibility with BPCS 4.05CD.
+
+This new version is available for free to all ATOMIC customers current with yearly maintenance.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>283</wp:post_id>
+		<wp:post_date><![CDATA[2005-08-01 21:50:41]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2005-08-01 21:50:41]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[atomic-version-3-4-now-general-distribution]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="press"><![CDATA[Press]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>ATOMIC Version 3.3 Now in General Distribution</title>
+		<link>https://www.cnxcorp.com/2004/05/07/atomic-version-3-3-now-general-distribution/</link>
+		<pubDate>Fri, 07 May 2004 21:51:18 +0000</pubDate>
+		<dc:creator><![CDATA[rmilone]]></dc:creator>
+		<guid isPermaLink="false">https://www.cnxcorp.com/?p=285</guid>
+		<description></description>
+		<content:encoded><![CDATA[<strong>Chicago, <abbr title="Illinois">IL</abbr></strong>. CNX is pleased to announce the most robust and powerful version of its ATOMIC Planning &amp; Execution System to date. Included in ATOMIC 3.3 is a host of new features including a completely redesigned RF module and major enhancements to MPS that automate the creation and maintenance of work orders in real-time.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>285</wp:post_id>
+		<wp:post_date><![CDATA[2004-05-07 21:51:18]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2004-05-07 21:51:18]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[atomic-version-3-3-now-general-distribution]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="press"><![CDATA[Press]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Selkirk Implements ATOMIC RF 3.3 at Idaho Facility and Makes Plans for Seven More</title>
+		<link>https://www.cnxcorp.com/2004/03/08/selkirk-implements-atomic-rf-3-3-idaho-facility-makes-plans-seven/</link>
+		<pubDate>Mon, 08 Mar 2004 21:51:57 +0000</pubDate>
+		<dc:creator><![CDATA[rmilone]]></dc:creator>
+		<guid isPermaLink="false">https://www.cnxcorp.com/?p=287</guid>
+		<description></description>
+		<content:encoded><![CDATA[<strong>Chicago, <abbr title="Illinois">IL</abbr></strong>. Selkirk Metalbestos, a leading manufacturer of registers, grilles, diffusers, chimney and gas venting products recently completed the implementation of ATOMIC RF 3.3 at its Nampa, ID facility. The implementation has dramatically improved inventory visibility and accuracy, eliminated delays in receiving production and raw materials and generally increased overall plant productivity. Selkirk is now planning on expanding ATOMIC RF 3.3 to seven additional plants across North America.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>287</wp:post_id>
+		<wp:post_date><![CDATA[2004-03-08 21:51:57]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2004-03-08 21:51:57]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[selkirk-implements-atomic-rf-3-3-idaho-facility-makes-plans-seven]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="press"><![CDATA[Press]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Knit-Rite First to Go Live with ATOMIC RF 3.3</title>
+		<link>https://www.cnxcorp.com/2004/02/05/knit-rite-first-go-live-atomic-rf-3-3/</link>
+		<pubDate>Thu, 05 Feb 2004 21:52:31 +0000</pubDate>
+		<dc:creator><![CDATA[rmilone]]></dc:creator>
+		<guid isPermaLink="false">https://www.cnxcorp.com/?p=289</guid>
+		<description></description>
+		<content:encoded><![CDATA[<strong>Kansas City, <abbr title="Kansas">KS</abbr></strong>. Knit-Rite today was the first ATOMIC customer to go live with ATOMIC RF 3.3. Also a first was Knit-Rite's ability to go live with portions of ATOMIC only 24 hours after initial installation.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>289</wp:post_id>
+		<wp:post_date><![CDATA[2004-02-05 21:52:31]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2004-02-05 21:52:31]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[knit-rite-first-go-live-atomic-rf-3-3]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="press"><![CDATA[Press]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>ATOMIC Undergoes Major Update with Development of Version 3.3</title>
+		<link>https://www.cnxcorp.com/2004/01/30/atomic-undergoes-major-update-development-version-3-3/</link>
+		<pubDate>Fri, 30 Jan 2004 21:52:58 +0000</pubDate>
+		<dc:creator><![CDATA[rmilone]]></dc:creator>
+		<guid isPermaLink="false">https://www.cnxcorp.com/?p=291</guid>
+		<description></description>
+		<content:encoded><![CDATA[<strong>Chicago, <abbr title="Illinois">IL</abbr></strong>. CNX today announced the upcoming release of ATOMIC 3.3, which will include a major update to the ATOMIC RF module. ATOMIC RF 3.3 will include new features such as inventory movement by product or ticket, tight integration of Replenishment Orders with the allocation and shipment process, wave picking of multiple orders simultaneously and many other exciting features. Several sites are now in beta with this new version and the general release is expected sometime in Spring 2004.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>291</wp:post_id>
+		<wp:post_date><![CDATA[2004-01-30 21:52:58]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2004-01-30 21:52:58]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[atomic-undergoes-major-update-development-version-3-3]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="press"><![CDATA[Press]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Milwaukee Valve Goes Live with ATOMIC</title>
+		<link>https://www.cnxcorp.com/2003/06/23/milwaukee-valve-goes-live-atomic/</link>
+		<pubDate>Mon, 23 Jun 2003 21:53:47 +0000</pubDate>
+		<dc:creator><![CDATA[rmilone]]></dc:creator>
+		<guid isPermaLink="false">https://www.cnxcorp.com/?p=293</guid>
+		<description></description>
+		<content:encoded><![CDATA[<strong>Milwaukee, <abbr title="Wisconsin">WI</abbr></strong>. Milwaukee Valve completed its implementation and went live today with ATOMIC MPS, SF and UDS modules. The initial goals for Milwaukee Valve were to streamline its planning and scheduling operations with ATOMIC. Next, the company will focus on streamlining distribution with ATOMIC RF.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>293</wp:post_id>
+		<wp:post_date><![CDATA[2003-06-23 21:53:47]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2003-06-23 21:53:47]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[milwaukee-valve-goes-live-atomic]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="press"><![CDATA[Press]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>TC Industries, Inc. Goes Live with ATOMIC</title>
+		<link>https://www.cnxcorp.com/2003/02/17/tc-industries-inc-goes-live-atomic/</link>
+		<pubDate>Mon, 17 Feb 2003 21:54:16 +0000</pubDate>
+		<dc:creator><![CDATA[rmilone]]></dc:creator>
+		<guid isPermaLink="false">https://www.cnxcorp.com/?p=295</guid>
+		<description></description>
+		<content:encoded><![CDATA[<strong>Crystal Lake, <abbr title="Illinois">IL</abbr></strong>. CNX is please to announce that two separate divisions of TC Industries went live with the full suite of ATOMIC modules today.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>295</wp:post_id>
+		<wp:post_date><![CDATA[2003-02-17 21:54:16]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2003-02-17 21:54:16]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[tc-industries-inc-goes-live-atomic]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="press"><![CDATA[Press]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>CNX and Nexgen collaborate to ease the PRMS upgrade process through ATOMIC</title>
+		<link>https://www.cnxcorp.com/2002/10/14/cnx-nexgen-collaborate-ease-prms-upgrade-process-atomic/</link>
+		<pubDate>Mon, 14 Oct 2002 21:54:45 +0000</pubDate>
+		<dc:creator><![CDATA[rmilone]]></dc:creator>
+		<guid isPermaLink="false">https://www.cnxcorp.com/?p=297</guid>
+		<description></description>
+		<content:encoded><![CDATA[<strong>Las Vegas, <abbr title="Nevada">NV</abbr></strong>. In conjunction with the SSA-GT user convention, CNX Corporation is pleased to announce the compatibility of ATOMIC version 3.0 with the latest release of PRMS, version 9.2.
+
+Nexgen Software Technologies of Naperville, IL, a leading provider of upgrade services to PRMS organizations worldwide, is a CNX partner licensed to install and support the ATOMIC Planning &amp; Execution System. With SSA-GT’s release of PRMS version 9.2, Nexgen’s comprehensive expertise at facilitating the upgrade process adds additional value to this partnership with CNX by streamlining the complex process of upgrading from earlier versions of PRMS.
+
+“There is a fair amount of pressure now throughout the PRMS install base to upgrade beyond version 8.4, which as of today is three full versions behind SSA-GT’s latest offering,” explains Rob Swanson, CNX President. “By functioning in both the 8.4 and 9.2 environments, ATOMIC makes the upgrade process much less daunting as it provides a mechanism for heavily modified 8.4 sites to reduce or eliminate their outgrown custom modifications for the shop floor. Nexgen supports all this by providing an efficient ‘one-stop shopping’ opportunity for both the ATOMIC installation and the PRMS upgrade.”
+
+For a typical shop running PRMS 8.4, the ATOMIC installation and PRMS upgrade to version 9.2 involves a two step process. First, the ATOMIC software is installed and configured to function in the existing 8.4 environment, supplanting outdated custom programs where possible (ideally, only custom programs outside the realm of ATOMIC would remain active). Then, Nexgen consultants employ their analysis and upgrade procedures to migrate a “mostly-vanilla” 8.4 shop to the 9.2 environment. ATOMIC readily adapts to the new environment through a single global control setting.
+
+“By pairing Nexgen’s proven upgrade methodology with CNX’s ATOMIC system, PRMS shops now have a unique opportunity to upgrade to PRMS 9.2, eliminate old custom code and get tremendous new functionality through ATOMIC all at the same time,” says Alwyn Francis, Nexgen Vice President, Services. “Obviously we’re very excited about being able to offer this service to our clients through our exclusive arrangement with CNX.”
+<h3>About Nexgen</h3>
+Since 1990, Nexgen Software Technologies, Inc., headquartered in Naperville, <abbr title="Illinois">IL</abbr>, has provided implementation and custom modification services to CA-PRMS™, WorldSoftware™, and eBPCS™ users. The company also develops and markets the NexgenEuro™ automated Euro conversion tool, as well as NexgenCommerce™ for WorldSoftware from J.D. Edwards®, for eBPCS from SSA Global Technologies, Inc. and for CA-PRMS from Computer Associates International Incorporated. For more information, contact Alwyn Francis, Vice President, Services, Nexgen Software Technologies, Inc. at +1 630/300-6000, or via e-mail to info@nexgensoftware.com. Information is also available on the World Wide Web at <a href="http://www.nexgeninfo.com/" target="_blank" rel="external">www.nexgeninfo.com</a>.
+<div class="alert alert-info">For an interactive demonstration of the latest ATOMIC features, visit the on-line demos section of the CNX web site at <a href="http://cnxcorp.com/atomic/demos/">www.cnxcorp.com/atomic/demos</a>, or schedule a WebEx demo by calling (312) 251-0840, x102</div>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>297</wp:post_id>
+		<wp:post_date><![CDATA[2002-10-14 21:54:45]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2002-10-14 21:54:45]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[cnx-nexgen-collaborate-ease-prms-upgrade-process-atomic]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="press"><![CDATA[Press]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>CNX releases ATOMIC version 3.0 at ANAUG show in Atlanta</title>
+		<link>https://www.cnxcorp.com/2002/09/16/cnx-releases-atomic-version-3-0-anaug-show-atlanta/</link>
+		<pubDate>Mon, 16 Sep 2002 21:55:24 +0000</pubDate>
+		<dc:creator><![CDATA[rmilone]]></dc:creator>
+		<guid isPermaLink="false">https://www.cnxcorp.com/?p=299</guid>
+		<description></description>
+		<content:encoded><![CDATA[<strong>Atlanta, <abbr title="Georgia">GA</abbr></strong>. CNX returned to the annual ANAUG user convention in Atlanta to demonstrate the latest release of the ATOMIC Planning and Execution System. Version 3.0 includes the newly released Quality Control Module and is fully compliant with PRMS versions 9.0 and 9.1.
+
+ATOMIC version 3.0 uses a single service program to interface with the PRMS database, hence making the upgrade process from one version of PRMS to another a simple matter of switching a system control setting. “With this release of ATOMIC, we’ve made it easier for heavily modified PRMS sites to upgrade to 9.0 and beyond,” explains Rob Swanson, CNX President. “If a plant running PRMS v8.4 installs ATOMIC, they gain the simultaneous benefit of (1) eliminating much of their outgrown custom modifications for shop floor scheduling and production reporting, and (2) making the transition from 8.4 to 9.0+ essentially a non-issue for the shop floor.”
+
+Also included in this release of ATOMIC is the new Quality Control Module, recently completed and installed through a Beta program at the Tones facility in Des Moines, <abbr title="Iowa">IA</abbr>. The ATOMIC QC Module allows users to define their own screens or templates for collecting quality control data. A series of rules can be defined such that users are required to report measurements at pre-determined intervals, based, for example, on production time or quantity.
+
+“We now have ATOMIC seamlessly enforcing our quality measurement requirements in conjunction with the collection of manufacturing information from the shop floor,” says Philip Borntrager, Operations System Analyst. “What used to require strict supervisory oversight to ensure compliance has been replaced by computerized enforcement and on-line edit-checking. You can’t get much more interactive control over the process than that!”]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>299</wp:post_id>
+		<wp:post_date><![CDATA[2002-09-16 21:55:24]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2002-09-16 21:55:24]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[cnx-releases-atomic-version-3-0-anaug-show-atlanta]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="press"><![CDATA[Press]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Rexam Consolidates Three Facilities into One Environment with ATOMIC</title>
+		<link>https://www.cnxcorp.com/2002/02/04/rexam-consolidates-three-facilities-one-environment-atomic/</link>
+		<pubDate>Mon, 04 Feb 2002 21:56:04 +0000</pubDate>
+		<dc:creator><![CDATA[rmilone]]></dc:creator>
+		<guid isPermaLink="false">https://www.cnxcorp.com/?p=301</guid>
+		<description></description>
+		<content:encoded><![CDATA[<strong>Mundelein, <abbr title="Illinois">IL</abbr></strong>. Interplant production visibility and control at Rexam Medical Packaging took a major leap forward in January as three separate PRMS facilities were consolidated into a single environment. By leveraging ATOMIC’s multi-plant features, Rexam’s separate manufacturing operations in Massachusetts, New Jersey and Illinois were able to combine their shops into a single database while still retaining their unique plant-specific ATOMIC environments.
+
+With plant-to-plant WIP constituting a sizable and growing portion of Rexam’s manufacturing business, continuing to treat each plant as a separate customer or vendor was becoming cumbersome. In early 2001, Rexam management decided it was time to stop looking at each plant as a separate profit center and focus instead on consolidating departments and evaluating the collective facilities as a whole.
+
+Dubbed “Project SPEED” (Systems and Processes that Exceed Expectations and Delight our Customers), Rexam began planning in August for a major overhaul of part numbers, routers, structures, customer numbers, vendor numbers, etc., to allow for the consolidation of inventory, production and sales data into a single database.
+
+“It was important to get all the plants speaking the same language,” said Sharon Schuyler, project manager. “Even though they were all using PRMS and ATOMIC, each plant had its own way of doing things that made it difficult to analyze information at a corporate level. So Project SPEED aimed to both streamline the flow of product between plants and make it easier to work as one company.”
+
+Rexam considered using multi-plant PRMS to solve their interplant distribution issues, but didn’t like the execution of the multi-member environment and particular nuances of DRP. So Rexam opted instead to treat each plant simply as a separate warehouse and let ATOMIC handle the scheduling of interplant demand and control the distribution of plant-to-plant material.
+
+“We really liked the shop floor control and execution ATOMIC provided within each of our sites, but we were wasting time and resources doing business with ourselves just to move material from one plant to another,” said Schuyler. “We really just wanted to roll the plant scheduling and execution options ATOMIC already provided for each facility into a single, collective mode that could handle all the plants together seamlessly.”
+
+With a massive push in the final quarter to standardize just about everything, the consolidation project finished on time to greet Rexam employees returning to work for the new year. Although PRMS data had been changed drastically across the board, each Rexam facility was able to retain its unique, plant-specific ATOMIC execution functions by using the multi-plant features introduced in version 2.1 of ATOMIC. Retaining a consistent look and feel on the shop floor helped to minimize the “shock” of the change to production workers without sacrificing the original objectives of the consolidation. And the newfound ability to view scheduling dependencies for work orders between plants quickly provided many dividends to production coordinators, making machine scheduling for interplant work orders considerably easier to manage.
+
+“It used to be kind of tedious to figure out when manufactured material was going to be available from one of the other plants,” said Michelle Welty, production planner. “Now I can look at any scheduled work order and see right away when the material is expected to complete at one of the other facilities. This makes it much simpler to sequence the jobs on my machines in line with what’s happening at the other plants.”
+
+With its environments now completely consolidated, Rexam is no longer burdened with treating each plant as a separate and independent entity. Movement of material from one plant to another now only requires a simple “from/to” transaction, and with the ATOMIC multi-plant features activated, shipping personnel receive the packing slips and bills of lading required to drive the shipping process without necessitating the creation of a customer order or replenishment order. Material in transit to other plants is visible to all facilities in a single session through conventional PRMS inventory inquiries and is no longer hidden from MRP.
+
+“ Receiving shipments from the other internal Rexam facilities now is a piece of cake,” said Scott Hammond, receiving clerk. “I just scan the ticket and, presto, it’s in my warehouse! We should have done this a long time ago!”
+<div class="alert alert-info">
+For an interactive demonstration of the latest ATOMIC features, visit the on-line demos section of the CNX web site at <a href="http://cnxcorp.com/atomic/demos/">www.cnxcorp.com/atomic/demos</a>, or schedule a WebEx demo by calling (312) 251-0840, x102
+</div>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>301</wp:post_id>
+		<wp:post_date><![CDATA[2002-02-04 21:56:04]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2002-02-04 21:56:04]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[rexam-consolidates-three-facilities-one-environment-atomic]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="press"><![CDATA[Press]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Nexgen to Install and Support ATOMIC™ for CA-PRMS™</title>
+		<link>https://www.cnxcorp.com/2001/12/15/nexgen-install-support-atomic-ca-prms/</link>
+		<pubDate>Sat, 15 Dec 2001 21:56:39 +0000</pubDate>
+		<dc:creator><![CDATA[rmilone]]></dc:creator>
+		<guid isPermaLink="false">https://www.cnxcorp.com/?p=303</guid>
+		<description></description>
+		<content:encoded><![CDATA[<strong>Naperville, <abbr title="Illinois">IL</abbr></strong>. Nexgen Software Technologies, Inc., the world’s largest independent provider of CA-PRMS™ related products and services, and CNX Corporation, developers of ATOMIC, have partnered to better serve CA-PRMS users. Nexgen will install and support ATOMIC™.
+
+ATOMIC (Automated Total Order Management and Inventory Control) was developed by experienced CA-PRMS users to enhance a company’s CA-PRMS investment and empower the shop floor with live interdepartmental data. ATOMIC offers manufacturing companies the opportunity to improve shop floor management as well as customer relations by providing an environment for accurate communication between production and the back office.
+
+The ATOMIC software suite includes six modules. The numerous execution screens are designed explicitly for machine operators and material handlers.
+
+“We are very excited to be partnering with CNX,” said Theresa Brown, Nexgen’s PRMS Practice Manager. “We have many customers who could benefit from ATOMIC. We’re always open to opportunities that help us better serve our customers. ATOMIC continues on this tradition. The product has been kept up to date with the latest PRMS enhancements and utilizes the latest technology. The modules are very well organized to allow for a smooth implementation and low learning curve by users of all levels. I am looking forward to working with CNX and ATOMIC to create a positive business solution for our customers.”
+
+Chicago-based CNX Corporation (www.atomic4prms.com.) specializes in bolt-on enhancements for ERP applications that run on the IBM iSeries 400 (formerly AS/400) platform. “This agreement is a win for all,” says Richard Milone, co-owner of CNX. “PRMS users win by having ATOMIC support available from a multifaceted, comprehensive solutions company like Nexgen. It’s good for Nexgen because it adds to their solutions. In addition, it’s good for CNX because it allows us to focus on continued development, which is a win for the PRMS users and Nexgen. The feedback we get from Nexgen and the user base drives the development, and that is good for all.”
+<h3>About Nexgen</h3>
+Since 1990, Nexgen Software Technologies, Inc., headquartered in Naperville, <abbr title="Illinois">IL</abbr>, has provided implementation and custom modification services to CA-PRMS™, WorldSoftware™, and eBPCS™ users. The company also develops and markets the NexgenEuro™ automated Euro conversion tool, as well as NexgenCommerce™ for WorldSoftware from J.D. Edwards®, for eBPCS from SSA Global Technologies, Inc. and for CA-PRMS from Computer Associates International Incorporated. For more information, contact Alwyn Francis, Vice President, Services, Nexgen Software Technologies, Inc. at +1 630/300-6000, or via e-mail to info@nexgensoftware.com. Information is also available on the World Wide Web at <a href="http://www.nexgeninfo.com/" target="_blank" rel="external">www.nexgeninfo.com</a>.
+<div class="alert alert-info">
+For an interactive demonstration of the latest ATOMIC features, visit the on-line demos section of the CNX web site at <a href="http://cnxcorp.com/atomic/demos/">www.cnxcorp.com/atomic/demos</a>, or schedule a WebEx demo by calling (312) 251-0840, x102
+</div>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>303</wp:post_id>
+		<wp:post_date><![CDATA[2001-12-15 21:56:39]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2001-12-15 21:56:39]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[nexgen-install-support-atomic-ca-prms]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="press"><![CDATA[Press]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>CNX demonstrates ATOMIC at ANAUG Conference in Nashville</title>
+		<link>https://www.cnxcorp.com/2001/10/08/cnx-demonstrates-atomic-anaug-conference-nashville/</link>
+		<pubDate>Mon, 08 Oct 2001 21:57:12 +0000</pubDate>
+		<dc:creator><![CDATA[rmilone]]></dc:creator>
+		<guid isPermaLink="false">https://www.cnxcorp.com/?p=305</guid>
+		<description></description>
+		<content:encoded><![CDATA[<strong>Nashville, <abbr title="Tennessee">TN</abbr></strong>. Today, CNX was at the Opryland Convention Center, this year's home of the ANAUG user conference, to demonstrate ATOMIC. The new booth and the growing knowledge of ATOMIC among the PRMS community have been keeping us very busy!]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>305</wp:post_id>
+		<wp:post_date><![CDATA[2001-10-08 21:57:12]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2001-10-08 21:57:12]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[cnx-demonstrates-atomic-anaug-conference-nashville]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="press"><![CDATA[Press]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Glenroy, Inc. Improves Operations with ATOMIC</title>
+		<link>https://www.cnxcorp.com/2001/10/01/glenroy-inc-improves-operations-atomic/</link>
+		<pubDate>Mon, 01 Oct 2001 21:57:40 +0000</pubDate>
+		<dc:creator><![CDATA[rmilone]]></dc:creator>
+		<guid isPermaLink="false">https://www.cnxcorp.com/?p=307</guid>
+		<description></description>
+		<content:encoded><![CDATA[<strong>Menomonee Falls, <abbr title="Wisconsin">WI</abbr></strong>. Glenroy, Inc. took a major leap forward in streamlining their manufacturing and distribution operations on September 10, 2001, when they went live with ATOMIC. The ATOMIC Planning and Execution Suite consists of six native AS/400 modules designed explicitly to extend the functionality of PRMS.
+
+Glenroy implemented ATOMIC’s Shop Floor, RF Inventory Control, Label Management and User-Defined Specification modules after spending six months installing, setting up and training users on the system. The implementation team consisted of various department heads from Glenroy and ATOMIC specialists from CNX Corporation, which designs and markets the software.
+
+Glenroy has considered the implementation of ATOMIC a success and is looking forward to using additional ATOMIC features as time goes on.
+<h3>The Problems</h3>
+Prior to implementing ATOMIC, the planning and scheduling department at Glenroy communicated scheduling information to the shop floor using a spreadsheet. This inherently paper-laden process fostered a reluctance to make frequent or 11th-hour schedule changes on Glenroy presses, as the overhead associated with distributing a new spreadsheet to the shop floor, and the resulting increased chance for error due to “missing” someone, was difficult for planners to overcome. There was also a tremendous amount of auxiliary paperwork detailing work order instructions flowing between the customer service and planning and scheduling departments. This abundance of dated paperwork added to shop floor confusion when operators inadvertently set up their machines based on instructions that planning intended to supersede. Also prior to implementing ATOMIC, Glenroy had put together some static entry screens designed to act as front-ends to SF0320 so that production could be entered right at the shop floor. However, the screens were inflexible to changes in processes and required a significant amount of training and support.
+<h3>The ATOMIC System</h3>
+The ATOMIC system bolts into PRMS at strategic points to streamline the flow of work order scheduling and production data to and from the shop floor, as well as handling inventory transactions and internal documentation needs.
+
+The shop floor (SF) component of ATOMIC includes an on-line production schedule editor that allows schedulers to sequence work orders onto specific machines. The system uses run rate standards in the PRMS soft routers to predict the precise date and time each job on the schedule will finish, based on the order in which the work orders are sequenced. ATOMIC assists with the sequencing of jobs by displaying relevant information about due dates, tools and raw material requirements in columnar format alongside each work order.
+
+Machine schedules are viewed, in turn, in a strictly on-line fashion at thin-client terminals throughout the facility by relevant machine and “prep station” areas. Work orders are automatically dropped off the schedules as they are completed, and changes to the schedule sequence initiated by scheduling (i.e., when necessitated by customer order changes) or, just as significantly, by production operators (i.e., due to a machine problem or other production issues) are automatically reflected in the on-line schedule the moment they occur.
+
+In addition to viewing schedules, machine operators use ATOMIC to log their production, scrap and hours information against the scheduled orders. This data is automatically fed into PRMS by ATOMIC, providing real-time visibility to production levels when doing a work order inquiry.
+
+Beyond the shop floor, ATOMIC has an RF Inventory Control module that provides for real-time inventory transactions in the warehouse. The RF module also includes a sophisticated shipping area director that automates the picking of orders without paperwork. Once an order is completely picked, the RF module handles the generation of a bill of lading and packing list and performs the shipment confirmation function (OB0100) automatically without the need to enter additional shipping data.
+<h3>Glenroy Chooses ATOMIC</h3>
+Glenroy was not out actively looking for something to solve problems for the shop floor. But after ATOMIC came to the IT Director’s attention, it was quickly determined that it could be a big benefit. “When I first read the features of this thing, I thought it must be too good to be true,” said John Mawbey, Glenroy’s IT Director recalling a mailing from CNX regarding ATOMIC. “ATOMIC had so many things in it that had been on my and the user’s wish lists for years, I was skeptical but was inclined to look into it further. CNX came and did a demo and the rest is history.”
+
+According to Mawbey, some attractive aspects of ATOMIC are its tight integration with PRMS and ILE RPG code base. “Training the users on ATOMIC was very straight forward. We didn’t have to go at it from the perspective of teaching a whole new system. Because the look and feel of ATOMIC is essentially the same as PRMS, we came at it from the perspective of teaching the users new features, even though ATOMIC is a tightly-linked, separate application from PRMS. Also, I like that ATOMIC is 100% programmed in ILE and that it’s distributed with full source code. This way, we can make minor customizations, like we do with PRMS, and as my programmers work with ATOMIC code, they are starting to get better with ILE.”
+<h3>The Implementation</h3>
+To implement ATOMIC, Mawbey put together a team consisting of IT-savvy users from each department and used CNX to help set up the system and perform training. Over a six month period, the team looked at ATOMIC’s features, decided which ones to implement on day one and saved some others for implementation at a later time. For example, there is some documentation that flows through many departments at Glenroy when a new product is set up in PRMS. ATOMIC can automate this process with its User-Defined Specs module, which Glenroy has implemented. But the fact that so many users have been dependent on the paperwork for so long made this one a natural to put off for a later day. “Now that we are implemented on ATOMIC, we are looking at using UDS to streamline the process of new product setup,” said Mawbey. “Prior to going live with ATOMIC, many users had indicated they still needed the paperwork. But now that they are getting more used to ATOMIC, they’re warming up to the idea of using UDS for the process and going paperless.”
+
+Another important aspect of the implementation that the team had to tackle was setting up ATOMIC’s global control and machine master. There were many decisions that had to be made as to how ATOMIC’s various modules would work for Glenroy. The team met regularly and went through many iterations of testing and tweaking ATOMIC’s settings in a test environment until the setup was perfected. Once the setup was agreed on by all, user training was conducted and a go-live plan was put together.
+
+In preparation for activating ATOMIC, Glenroy shut down early on Friday, September 7, 2001. At that time, all open work orders were closed, a physical inventory was taken, and then the remaining balances of the closed work orders were reentered as new. On Monday, September 10, 2001, users began using terminals on the shop floor to view schedule information and report production through ATOMIC. Likewise, the warehouse began using ATOMIC to issue raw material, receive production, do from-to entries and ship customer orders.
+<h3>What Glenroy has to Say</h3>
+“ATOMIC made our system hip and happening,” said Roy Jablonka, president of Glenroy, Inc. This echoes the sentiment felt by many in Glenroy’s IT department and the user community. “The addition of ATOMIC has made all of us feel much better about our long-term use of PRMS,” said Mawbey. “With the addition of ATOMIC’s many features to PRMS, we now have a completely modern system that is really cost effective.”
+<div class="alert alert-info">
+For an interactive demonstration of the latest ATOMIC features, visit the on-line demos section of the CNX web site at <a href="http://cnxcorp.com/atomic/demos/">www.cnxcorp.com/atomic/demos</a>, or schedule a WebEx demo by calling (312) 251-0840, x102
+</div>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>307</wp:post_id>
+		<wp:post_date><![CDATA[2001-10-01 21:57:40]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2001-10-01 21:57:40]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[glenroy-inc-improves-operations-atomic]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="press"><![CDATA[Press]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Glenroy, Inc. Implements ATOMIC</title>
+		<link>https://www.cnxcorp.com/2001/09/10/glenroy-inc-implements-atomic/</link>
+		<pubDate>Mon, 10 Sep 2001 21:58:30 +0000</pubDate>
+		<dc:creator><![CDATA[rmilone]]></dc:creator>
+		<guid isPermaLink="false">https://www.cnxcorp.com/?p=309</guid>
+		<description></description>
+		<content:encoded><![CDATA[<strong>Menomonee Falls, <abbr title="Wisconsin">WI</abbr></strong>. Glenroy, Inc took a major leap forward today in streamlining its manufacturing and distribution operations on September 10, 2001, when the company went live with ATOMIC. Glenroy is a manufacturer of thermal laminate films, printed flexible packaging materials and extrusion coated and printed balloon film. The ATOMIC Planning and Execution Suite consists of six native AS/400 modules designed explicitly to extend the functionality of PRMS. Glenroy implemented ATOMIC’s Shop Floor, RF Inventory Control, Label Management and User-Defined Specification modules after spending six months installing, setting up and training users on the system.
+
+Glenroy was not out actively looking for something to solve problems for the shop floor. But after ATOMIC came to the IT Director’s attention, it was quickly determined that it could be a big benefit. “When I first read the features of this thing, I thought it must be too good to be true,” said John Mawbey, Glenroy’s IT Director recalling a mailing from CNX regarding ATOMIC. “ATOMIC had so many things in it that had been on my and the user’s wish lists for years, I was skeptical but was inclined to look into it further. CNX came and did a demo and the rest is history.”
+
+According to Mawbey, some attractive aspects of ATOMIC are its tight integration with PRMS and ILE RPG code base. “Training the users on ATOMIC was very straight forward. We didn’t have to go at it from the perspective of teaching a whole new system. Because the look and feel of ATOMIC is essentially the same as PRMS, we came at it from the perspective of teaching the users new features, even though ATOMIC is a tightly-linked, separate application from PRMS. Also, I like that ATOMIC is 100% programmed in ILE and that it’s distributed with full source code. This way, we can make minor customizations, like we do with PRMS, and as my programmers work with ATOMIC code, they are starting to get better with ILE.”
+
+“ATOMIC made our system hip and happening,” said Roy Jablonka, president of Glenroy, Inc. This echoes the sentiment felt by many in Glenroy’s IT department and the user community. “The addition of ATOMIC has made all of us feel much better about our long-term use of PRMS,” said Mawbey. “With the addition of ATOMIC’s many features to PRMS, we now have a completely modern system that is really cost effective.”
+
+For an interactive demonstration of the latest ATOMIC features, visit the on-line demos section of the CNX web site at <a href="http://cnxcorp.com/atomic/demos/">www.cnxcorp.com/atomic/demos</a>, or schedule a WebEx demo by calling (312) 251-0840, x102]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>309</wp:post_id>
+		<wp:post_date><![CDATA[2001-09-10 21:58:30]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2001-09-10 21:58:30]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[glenroy-inc-implements-atomic]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="press"><![CDATA[Press]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Tones, Inc. Partners with CNX to Create ATOMIC Q/C Module</title>
+		<link>https://www.cnxcorp.com/2001/07/27/tones-inc-partners-cnx-create-atomic-qc-module/</link>
+		<pubDate>Fri, 27 Jul 2001 22:00:46 +0000</pubDate>
+		<dc:creator><![CDATA[rmilone]]></dc:creator>
+		<guid isPermaLink="false">https://www.cnxcorp.com/?p=312</guid>
+		<description></description>
+		<content:encoded><![CDATA[<strong>Ankeny, <abbr title="Iowa">IA</abbr></strong>. CNX Corporation, makers of the ATOMIC Planning and Execution Product Suite for PRMS, today announced it has forged an agreement with Tone Brothers, makers of Spice Islands, Durkee and Tones brand spices, to co-develop a quality control interface for use on the shop floor. The resulting Q/C module will be available for general distribution as a new ATOMIC component by January of 2002.
+
+Tones implemented ATOMIC’s SF (shop floor) and UDS (user-defined spec) modules in early May. The programs, which interface directly with PRMS, allowed the company to reduce the amount of paper forms and hard-copied specifications necessary to process work orders through the shop floor. Operators receive work order instructions and key production information directly on-line, bypassing most paper forms altogether. Tones is now looking for a similar solution to the paperwork associated with collecting quality control information.
+
+“With ATOMIC controlling the sequence of work orders on the shop floor and the correlated collection of production data, it seemed a natural fit to add quality control information to the package,” says Philip Borntrager, Operations System Analyst. “Our goal is to have ATOMIC seamlessly enforce our quality measurement requirements in conjunction with the collection of manufacturing information.”
+
+CNX will begin Beta testing the Q/C module at the Tones facility in late October. The Q/C module will be an extension of the UDS module, which will allow Tones to create customized data-entry templates for quality measurements, set tolerance thresholds and define control settings to ensure data is recorded at proper predetermined intervals (based on machine time and/or production quantity).
+
+“What currently requires strict supervisory oversight to ensure compliance will soon be replaced by computerized enforcement and on-line edit-checking,” Borntrager says. “You can’t get much more interactive control over the process than that!”
+<div class="alert alert-info">
+For an interactive demonstration of the latest ATOMIC features, visit the on-line demos section of the CNX web site at <a href="http://cnxcorp.com/atomic/demos/">www.cnxcorp.com/atomic/demos</a>, or schedule a WebEx demo by calling (312) 251-0840, x102
+</div>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>312</wp:post_id>
+		<wp:post_date><![CDATA[2001-07-27 22:00:46]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2001-07-27 22:00:46]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[tones-inc-partners-cnx-create-atomic-qc-module]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="press"><![CDATA[Press]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>CNX Announces the Release of Web Portal SF for ATOMIC</title>
+		<link>https://www.cnxcorp.com/2001/07/10/cnx-announces-release-web-portal-sf-atomic/</link>
+		<pubDate>Tue, 10 Jul 2001 22:01:43 +0000</pubDate>
+		<dc:creator><![CDATA[rmilone]]></dc:creator>
+		<guid isPermaLink="false">https://www.cnxcorp.com/?p=314</guid>
+		<description></description>
+		<content:encoded><![CDATA[<strong>Orlando, <abbr title="Florida">FL</abbr></strong>. CNX Corporation announces the release of ATOMIC Web Portal SF, a new web-based order tracking feature for users of popular IBM iSeries® 400-based ERP packages, including CA-PRMS®. ATOMIC Web Portal SF works in conjunction with other ATOMIC modules to facilitate the communication of customer order and shop floor work order status to authorized customers via the Internet.
+
+For make-to-order manufacturers, ATOMIC Web Portal SF can significantly reduce call center volume by offloading production status requests directly to the Internet. The tool allows customers to interactively review lists of open orders on-line and drill down to view the real-time shop floor status of the work order(s) assigned to fill the selected customer order. The configurable production status information available to the customer includes details such as:
+<ul>
+	<li>The work order number(s) assigned to fill the customer order</li>
+	<li>The time and date each work order is expected to finish</li>
+	<li>The location of each work order on the machine schedule</li>
+	<li>The quantity produced so far</li>
+	<li>The tracking number used for shipping (once shipped)</li>
+</ul>
+All shop floor information is provided automatically based on real-time information collected by the ATOMIC SF module. ATOMIC SF is one of six modules in the ATOMIC Product Suite, all designed to interface with and leverage the company’s existing ERP investment.
+
+CNX representatives will be demonstrating ATOMIC Web Portal SF during CA-WORLD at booth 215. For more information on ATOMIC and ATOMIC Web Portal SF, visit the <a href="https://www.cnxcorp.com/">www.cnxcorp.com</a> website or contact CNX Corporation at (312) 251-0840.
+<div class="alert alert-info">IBM® and iSeries® are registered trademarks of IBM. CA-PRMS® is a registered trademark of Computer Associates International, Inc. Computer Associates International, Inc. does not make or license ATOMIC.</div>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>314</wp:post_id>
+		<wp:post_date><![CDATA[2001-07-10 22:01:43]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2001-07-10 22:01:43]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[cnx-announces-release-web-portal-sf-atomic]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="press"><![CDATA[Press]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>CNX Demonstrates ATOMIC at CA World</title>
+		<link>https://www.cnxcorp.com/2001/07/08/cnx-demonstrates-atomic-ca-world/</link>
+		<pubDate>Sun, 08 Jul 2001 22:02:14 +0000</pubDate>
+		<dc:creator><![CDATA[rmilone]]></dc:creator>
+		<guid isPermaLink="false">https://www.cnxcorp.com/?p=316</guid>
+		<description></description>
+		<content:encoded><![CDATA[<strong>Orlando, <abbr title="Florida">FL</abbr></strong>. Today, CNX was at CA World in Orlando demonstrating ATOMIC to PRMS users and showing off the fancy new booth!]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>316</wp:post_id>
+		<wp:post_date><![CDATA[2001-07-08 22:02:14]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2001-07-08 22:02:14]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[cnx-demonstrates-atomic-ca-world]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="press"><![CDATA[Press]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Recognizing the Value of Real Time Feedback from the Shop Floor</title>
+		<link>https://www.cnxcorp.com/2001/06/21/recognizing-value-real-time-feedback-shop-floor/</link>
+		<pubDate>Thu, 21 Jun 2001 20:49:10 +0000</pubDate>
+		<dc:creator><![CDATA[rmilone]]></dc:creator>
+		<guid isPermaLink="false">https://www.cnxcorp.com/?p=535</guid>
+		<description></description>
+		<content:encoded><![CDATA[At 11:40 p.m. on the night of April 14, 1912, Fourth Officer Joseph Boxhall was walking to the bridge. Suddenly he heard three bells from the crow’s nest, signaling the sighting of an iceberg ahead. Shortly thereafter, the voice of First Officer William Murdoch could be heard, frantically calling out orders to go “hard over” on the ship’s wheel. The noise of the engine room telegraphs ordering the reversal of the engines coursed through the frigid night air.
+
+<img alt="Sinking ship" src="/wp-content/uploads/2014/01/sunk1.jpg" width="243" height="167" align="right" />
+
+Boxhall reached the bridge, he saw Murdoch closing watertight doors just as a long, grinding jar shook the ship. Moments later the captain was at his side asking what had happened. Upon hearing the limited information available, Boxhall was told to go down and inspect the forward part of the ship. Boxhall went down and initially saw no damage, but as he continued his tour a steerage passenger handed him a large piece of ice that had fallen to the deck. The vessel had apparently struck a mammoth iceberg.
+
+The <abbr title="Royal Mail Steamship">RMS</abbr> Titanic was indeed encumbered by primitive obstacle detection technology. In the early 20th century, advanced warning to potentially catastrophic collisions with automated monitoring equipment was not available.
+
+Today, nearly a century after the Titanic disaster, we find new technology has permeated the ranks of not just maritime vessels, but practically every segment of society. Safety and productivity in virtually every industry have soared to unprecedented levels. Yet many manufacturing centers still cling to old-hat protocols for recognizing and communicating problems to the decision makers. Consequently, shop floor versions of the Titanic, where misfortunate events arise from lack of timely and accurate information, continue to happen everyday.
+<h3>Electronic Versus Manual</h3>
+Most order processing systems readily facilitate a mechanism for relaying customer requirements to production (such as <abbr title="Electronic Data Interchange">EDI</abbr> or order entry feeding MPS). Planners, in turn, have many tools at their disposal to calculate long-term material needs and capacity requirements. However, most production centers, particularly those running in discrete manufacturing environments, still rely on relatively antiquated processes to communicate immediate-term information between production planner/schedulers and associated production departments.
+
+Take, for instance, the typical daily scenario for production planning in a make-to-order manufacturing business using PRMS. With a varying degree of frequency, one or more planners endeavor to produce a short-term work order schedule, sequencing jobs such that customer requirements and internal needs are balanced to the best degree possible. These schedules are hand-delivered to machine areas and relevant secondary departments (i.e., plate mounting, mixing areas, tool prep, etc) such that the queue of work orders can be processed through the facility as smoothly as possible.
+
+Production information, in turn, is typically reported on hand-written worksheets that are later keyed into PRMS by a clerk or material handler. The timeliness of production data on the system is therefore limited to the speed at which the paperwork can make it from the production area to the top of the stack with the party or parties responsible for keying it.
+<h3>Handling Exceptions</h3>
+In this scenario, the arrival of an “iceberg” (in the form of an unexpected manufacturing problem or major change in a customer order) requires a series of notifications to multiple parties in order to maneuver around it. In extreme cases, planning must embark on a paper chase to ascertain where the relevant machines are on the schedule. This is followed by a rework of the appropriate machine schedules and a redistribution of the revised schedule to the appropriate areas.
+
+The time and labor involved in orchestrating such near-term schedule changes often lead businesses to “rule out” such actions, simply because of the trouble involved in quickly obtaining and disseminating the appropriate production and scheduling information. Such rigid policies can lead to generation of incorrect or excess inventory or, worse, a decrease in customer satisfaction due to the inability of the business to respond to last-minute changes in dates or quantities.
+<h3>Keeping the Edge</h3>
+Such was the case with Rexam Flexibles in Mundelein, Illinois. Rexam is a leading manufacturer of sterilizable medical packaging and flexible films. To maintain its dominance in an increasingly competitive market, Rexam needed a means to react as quickly as possible to swings in customer requirements, as well as to keep a better handle on its internal manufacturing operations.
+
+Rexam decided it needed to find a shop floor system that would automate the flow of information between scheduling and production. The system needed to leverage the existing PRMS data from Rexam’s elaborate product routers and structures and needed to be flexible enough to work at other Rexam facilities with differing machine types and manufacturing operations.
+<h3>The ATOMIC System</h3>
+To meet these and other requirements, Rexam chose CNX Corporation’s multi-modular ATOMIC System (Automated Total Order Management and Inventory Control). The system bolts into PRMS at strategic points to streamline the flow of work order scheduling and production data to and from the shop floor, as well as handling inventory transactions and internal documentation needs.
+
+The shop floor (SF) component of ATOMIC includes a discrete production scheduler that allows Rexam’s schedulers to sequence work orders onto specific machines. The system uses run rate standards in the PRMS soft routers to predict the precise date and time each job on the schedule will finish, based on the order in which the work orders are sequenced by the scheduler. ATOMIC assists with the sequencing of jobs by displaying relevant information about due dates, tools and raw material requirements in columnar format alongside each work order.
+
+Machine schedules are viewed, in turn, in a strictly on-line fashion at thin-client terminals throughout the facility by relevant machine and “prep-station” areas. Work orders are automatically dropped off the schedules as they are completed, and changes to the schedule sequence (i.e., when necessitated by production issues) are automatically reflected in the on-line schedule as well.
+
+In addition to viewing schedules, machine operators use ATOMIC to log their production, scrap and hours information against the scheduled orders. This data is automatically fed into PRMS by ATOMIC, providing real-time visibility to production levels when doing a work order inquiry.
+<h3>Unexpected Byproduct</h3>
+As was expected, the real-time on-line communication forum of ATOMIC easily facilitated 11th-hour changes to production schedules once the system was installed. Rexam schedulers now have the ability to radically switch the sequence of work orders and be confident that the appropriate machine operators, plate mounters, resin mixers and material handlers will all see the adjustment and react appropriately.
+
+What was not completely foreseen in the ATOMIC project at Rexam was the benefit to be derived from providing real-time shop floor data to customer service. The automatic forecasting or work order completion dates has equipped customer service with pertinent data for answering queries on product availability that once would have required a phone call to production. Also, with access to real time production information, a customer service rep can ascertain the production quantity on a specific work order currently being run and make an immediate decision on air-freighting a portion of the produced order to a customer with a sudden urgent need for material.
+<h3>Mission Accomplished</h3>
+Users at Rexam say they are now well equipped to respond to the manufacturing icebergs that lie ahead. In fact, the success of the ATOMIC/PRMS pairing had led the division to embark on a project to roll out the system to all of its North American facilities.
+
+“Through ATOMIC we now have real-time information on material availability, machine status, shop floor schedules and shipping activity at all our plants,” explains Tom Hicks, Director of Information Technology at Rexam. “With a centralized customer service operation, this on-line dissemination of production and scheduling information plays a vital role in keeping abreast of our production operations and, ultimately, in keeping our customers happy.”]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>535</wp:post_id>
+		<wp:post_date><![CDATA[2001-06-21 20:49:10]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2001-06-21 20:49:10]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[recognizing-value-real-time-feedback-shop-floor]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="atomic"><![CDATA[Atomic]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>CNX Announces Professional Services Partnership with Sencha</title>
+		<link>https://www.cnxcorp.com/2013/01/31/cnx-announces-professional-services-partnership-sencha/</link>
+		<pubDate>Thu, 31 Jan 2013 01:21:45 +0000</pubDate>
+		<dc:creator><![CDATA[rmilone]]></dc:creator>
+		<guid isPermaLink="false">https://www.cnxcorp.com/?p=163</guid>
+		<description></description>
+		<content:encoded><![CDATA[<h3>Achieves “Select Partner” Status for Ext JS, Sencha Touch Development</h3>
+<strong>Chicago, IL</strong> CNX Corporation, a leader in enterprise application development, announced today it has finalized a professional services partnership with Sencha Inc of Redwood City, California. As a Sencha Select Partner, CNX is now formally recognized as a specialist in applying Sencha technologies to web and mobile applications. Under this partnership, CNX will work more closely with Sencha in sharing resources and opportunities.
+
+“We’re quite excited to have achieved this partnership status, as it highlights our professional aptitude with the Sencha UI technologies that are critical to the look and feel of applications we develop for our customers,” said Richard Milone, Chief Technical Officer of CNX. “Very few companies have attained this level of recognition with Sencha, and we’re the first Select Partner firm certified in the Midwest.”
+
+In order to become a Select Partner, CNX was required to demonstrate a high degree of proficiency in design and programming using Sencha’s flagship products, Ext JS and Sencha Touch. The review process included a formal certification of CNX developers’ Sencha-specific education and a detailed audit with Sencha engineers of completed client software projects.
+
+“This formal partnership status with Sencha confirms our dedication to writing logically structured, easily modified and extendable Ext JS and Sencha Touch code for our clients using best practices,” said Milone. “It’s an important distinction of quality for the code our developers create at CNX.”
+
+“We're thrilled to welcome CNX to the program,” said Jeff Hartley, VP of Services at Sencha. “They have proven expertise with Sencha products, and we’re very excited to work with them as a Select Partner.”
+<h4>About Sencha</h4>
+Sencha’s application frameworks, tools and cloud services empower developers to create high quality applications based on Web standards that can run on an unprecedented number of devices, platforms and browsers. The company’s flagship product, Sencha Complete, includes industry-leading JavaScript frameworks, tools, and services. More than 1.6 million developers worldwide at more than 150,000 companies use the Sencha family of products to build highly functional and robust desktop and mobile applications to run their business. For additional details please visit their <a title="Sencha Website" href="http://www.sencha.com/" target="_blank">website</a>.]]></content:encoded>
+		<excerpt:encoded><![CDATA[CNX Corporation, a leader in enterprise application development, announced today it has finalized a professional services partnership with Sencha Inc of Redwood City, California. As a Sencha Select Partner, CNX is now formally recognized as a specialist in applying Sencha technologies to web and mobile applications. Under this partnership, CNX will work more closely with Sencha in sharing resources and opportunities.]]></excerpt:encoded>
+		<wp:post_id>163</wp:post_id>
+		<wp:post_date><![CDATA[2013-01-31 01:21:45]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2013-01-31 01:21:45]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[cnx-announces-professional-services-partnership-sencha]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="press"><![CDATA[Press]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>CNX Announces Release of Valence Framework 3.2</title>
+		<link>https://www.cnxcorp.com/2012/11/26/cnx-announces-release-of-valence-framework-3-2/</link>
+		<pubDate>Mon, 26 Nov 2012 01:29:45 +0000</pubDate>
+		<dc:creator><![CDATA[rmilone]]></dc:creator>
+		<guid isPermaLink="false">https://www.cnxcorp.com/?p=167</guid>
+		<description></description>
+		<content:encoded><![CDATA[<h3>Includes all-new mobile app for administering IBM i while on-the-go</h3>
+<strong>Chicago, IL</strong> CNX announced today the general availability of version 3.2 of the Valence Framework for IBM i. Valence Framework 3.2 features a complete reengineering of the desktop and mobile portals, and includes an exclusive new app for addressing common IBM i administrative tasks from a smartphone or tablet.
+
+“Mobile apps have taken center stage in recent years with the explosive adoption of smartphones and tablets, and I strongly believe that Valence is the best framework out there for building these types of apps,”said Richard Milone, CNX Chief Technical Officer. “The new Nitro iAdmin app is a prime example of the power of the Valence development methodology – it was built entirely with the Valence Framework, does not use screen-scrapping in any way, and has a world-class mobile user interface.”
+
+Nitro iAdmin, included as part of the Valence Framework, represents the newest addition to the Nitro family of apps introduced in prior Valence Framework releases, which includes Nitro File Editor for displaying/editing IBM i database files in a browser, and Nitro App Builder for building browser-based query and dashboard apps with no programming. Nitro iAdmin is also available to the IBM i community as a standalone app, downloadable from the CNX website as self-contained software that does not require the Valence Framework. The Nitro iAdmin app can also be sampled without download by navigating to iadmin.cnxcorp.com in a mobile browser, which runs the app directly from an IBM i partition at CNX for demonstration purposes.
+
+“Although many software vendors have released commercial products using Valence Framework technology, the Nitro iAdmin standalone app marks CNX’s first foray into the standalone app market,” said Milone. “It broadens our reach to the IBM i community, as Nitro iAdmin is a utility that can be put to work regardless of your company’s web or mobile development strategy.”
+
+In addition to the Nitro iAdmin app, Valence Framework 3.2 features reengineered desktop and mobile portals for optimal performance and usability. Desktop apps can now utilize the browser’s entire window, unimpeded by a toolbar or header, and mobile apps now occupy a single tab in the mobile browser regardless of how many apps are launched. Valence Framework 3.2 also includes new versions of Ext JS (4.1.1) and Sencha Touch (2.0.1.1), so developers can utilize the latest front-end components in conjunction with their server-side RPG programs. A complete list of included enhancements is listed in the Valence Framework Release History forum at <a href="http://cnxforum.com/">cnxforum.com</a>.
+
+The core Valence Framework remains free to all IBM i developers under terms of a “Community” License. Premium features, including the Nitro apps, are activated on a per-machine basis for an unlimited number of users and developers under the terms of an “Enterprise”License. The new Nitro iAdmin app, whether downloaded standalone or as part of the Valence Framework, is fully functional for 30 days upon download. After 30 days the app continues to function in an “inquiry-only”capacity until a license key is applied. As an introductory promotion, the Nitro iAdmin app is available for $995 per licensed IBM i through December 31, 2012, after which it will revert to its standard price of $1495. The Valence Enterprise license remains priced at $4995 per IBM i.
+
+Valence Framework 3.2 is the ninth major release of the Valence Framework since it was first launched in May 2008. For additional Valence Framework 3.2 details, and to download the software, please visit <a href="/valence">www.cnxcorp.com/valence</a>.]]></content:encoded>
+		<excerpt:encoded><![CDATA[CNX announced today the general availability of version 3.2 of the Valence Framework for IBM i. Valence Framework 3.2 features a complete reengineering of the desktop and mobile portals, and includes an exclusive new app for addressing common IBM i administrative tasks from a smartphone or tablet.]]></excerpt:encoded>
+		<wp:post_id>167</wp:post_id>
+		<wp:post_date><![CDATA[2012-11-26 01:29:45]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2012-11-26 01:29:45]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[cnx-announces-release-of-valence-framework-3-2]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="press"><![CDATA[Press]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+			<wp:meta_value><![CDATA[cnx-announces-release-valence-framework-3-2]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Indigo Software Selects Valence Framework for New App Development</title>
+		<link>https://www.cnxcorp.com/2012/07/16/indigo-software-selects-valence-framework-new-app-development/</link>
+		<pubDate>Mon, 16 Jul 2012 21:33:24 +0000</pubDate>
+		<dc:creator><![CDATA[rmilone]]></dc:creator>
+		<guid isPermaLink="false">https://www.cnxcorp.com/?p=249</guid>
+		<description></description>
+		<content:encoded><![CDATA[<strong>Chicago, IL</strong> Indigo Software Limited of Durham, U.K. has selected CNX Corporation’s Valence Framework as a core technology for new application development. The selection of Valence follows a long study by Indigo on possible directions for the future.
+
+“Valence allows us to leverage our experience with IBM i and RPG while at the same time providing a rich interface that the market demands,“ explains Peter McLane, Managing Director of Indigo. “My development team evaluated many different technologies in our efforts to modernize and Valence stood out to us as the obvious choice.“
+
+Indigo developers from the U.K. are currently in Chicago attending Valence training classes. When initial training is complete, Indigo and CNX developers will work together to ensure a smooth start to the initial development projects with Valence. “It’s a pleasure working with Indigo because they have great people who share our same core values and determination,“ says Richard Milone, Chief Technology Officer at CNX. “There’s no doubt Indigo will be successful with Valence and their development objectives.“
+<h2>About Indigo</h2>
+Indigo was started over 32 years ago by its founder and CEO, Peter McLane. Since 1988, Indigo (formerly JBA North East) has focused on Infor ERP System21, both as the leading UK Channel reseller and as a developer of packaged software to automate System21 through Barcode, RF and RFID technologies. In addition to Barcode automation, Indigo has substantially enriched the System21 Warehouse Management System to deliver Paperless Warehousing through enhanced task scheduling and resource management. Based in Durham, England, Indigo place satisfied customers as their highest priority, recording 83% overall satisfaction in an autumn 2008 survey. This is achieved primarily through the 4 core values of the company, namely: Reliability, Integrity, Competence and Caring. These values govern the behavior of Indigo and its entire staff and forms the commitment given to all clients. Working in close partnership with Infor, Indigo now have over 100 System21 clients who are either fully supported for System21 or live with Indigo's Warehousing and automation solutions, namely RealTime for System21. These customers include many blue chip companies such as Jacuzzi, Glen Dimplex, Agrokor (Croatia), Bunzl (Australia), Dairy Crest, Greencore, Rahbekfisk (Denmark), Greene King, Wesfarmers (NZ) and many more. For more information visit <a href="http://www.indigo.co.uk" target="_blank">www.indigo.co.uk</a>.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>249</wp:post_id>
+		<wp:post_date><![CDATA[2012-07-16 21:33:24]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2012-07-16 21:33:24]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[indigo-software-selects-valence-framework-new-app-development]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="press"><![CDATA[Press]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>CNX Announces Release of Valence 3.1 Updates Framework for RPG-Centric Web Development on IBM i</title>
+		<link>https://www.cnxcorp.com/2012/03/26/cnx-announces-release-valence-3-1-updates-framework-rpg-centric-web-development-ibm/</link>
+		<pubDate>Mon, 26 Mar 2012 21:37:46 +0000</pubDate>
+		<dc:creator><![CDATA[rmilone]]></dc:creator>
+		<guid isPermaLink="false">https://www.cnxcorp.com/?p=255</guid>
+		<description></description>
+		<content:encoded><![CDATA[<strong>FORT WORTH, TX.</strong> CNX announced at the Spring RPG/DB2 Summit today the release of version 3.1 of the Valence Web Application Framework for IBM i. Valence 3.1 includes numerous browser component enhancements plus an exclusive new set of tools to help IBM i developers create desktop and mobile web apps with little or no programming.
+
+“The big news with this release is the Valence Nitro App Builder, which brings to Valence a whole new array of features supporting rapid web application development on IBM i,” said Richard Milone, CNX Chief Technical Officer. “This is not some sort of web designer imported from another platform and shoe-horned into working on IBM i. This was designed from scratch explicitly for IBM i and it performs incredibly fast.”
+
+The Valence Nitro App Builder facilitates the rapid creation of browser-based dashboards and queries from IBM i data. Multiple types of charts, graphs and tables can be created as web apps in minutes without the need to write a single line of code, though programmers are free to add their own customizations to the apps once they’re built.
+
+The Valence Nitro App Builder is just one part of the Valence 3.1 framework, a set of tools for developing state-of-the-art web and mobile apps on IBM i. Designed explicitly for RPG programmers, Valence includes Sencha Ext JS and Sencha Touch components for the front-end user interface, which communicate directly with RPG programs on the back-end IBM i server. Valence runs entirely through IBM i’s integrated Apache server – no additional severs or hardware is required.
+
+“With the new Valence Nitro App Builder, plus dozens of example programs complete with source code, Valence delivers a straightforward way for RPG programmers to get their feet wet in Web 2.0 development without having to already be fluent JavaScript, HTML, CSS, and so on,” added Milone. “More importantly, Valence offers the IBM i community access to the same technology used on all the feature-rich web sites you see today residing on other platforms. This is an exciting time for IBM i shops to be jumping into this kind of development, because the technology has come so far so fast in recent years. It’s truly amazing what kind of apps you can develop for browsers these days, and once you get fluent in how it all works there’s practically no limit to what you can create.”
+
+The core Valence framework remains free to all IBM i developers under terms of a “Community Developer” License. Premium features, including the Nitro tools, are activated on a per-machine basis for an unlimited number of developers under the terms of an “Enterprise” License. Beyond the Valence Nitro App Builder, other Nitro features include a browser-based file editor for viewing/editing/ downloading data in any IBM i database file, a lightweight source editor for maintaining front-end JavaScript code, and an integrated instance manager for cloning, updating and managing multiple Valence server instances. These Enterprise-level features are automatically activated on a free 90-day trial basis when Valence is downloaded and installed.
+
+“Our intent with Valence is to make sure cost is never a barrier to entry for RPGers who want to bring Web 2.0 technology to their companies,” explained Milone, “so the free Community Edition of Valence contains everything those programmers need to create world class browser apps. They can play with the framework in this mode for as long as they like at no cost. Once they’ve deployed some apps to their users and feel comfortable with the framework, upgrading to a modestly priced Professional or Enterprise-level license may make sense to ensure they have the best tools and support available for their web development going forward.”
+
+As with prior releases, the Valence 3.1 framework includes a web portal for securely logging on to the IBM i, as well as an intuitive navigation tree from which users can launch the browser applications to which they are authorized. When mobile devices such as iPhones and iPads are being used, the Valence Portal automatically switches the interface to a native Touch-friendly format. Valence 3.1 is the eighth major release of the Valence Framework since it was launched in May 2008. For additional Valence 3.1 details, including videos demonstrating some of the new features, and to download the software, <a href="http://cnxcorp.com/valence/" target="_blank">click here.</a>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>255</wp:post_id>
+		<wp:post_date><![CDATA[2012-03-26 21:37:46]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2012-03-26 21:37:46]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[cnx-announces-release-valence-3-1-updates-framework-rpg-centric-web-development-ibm]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="press"><![CDATA[Press]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>CNX Announces Official Release of Valence 3.0</title>
+		<link>https://www.cnxcorp.com/2011/08/19/cnx-announces-official-release-valence-3-0/</link>
+		<pubDate>Fri, 19 Aug 2011 21:39:54 +0000</pubDate>
+		<dc:creator><![CDATA[rmilone]]></dc:creator>
+		<guid isPermaLink="false">https://www.cnxcorp.com/?p=258</guid>
+		<description></description>
+		<content:encoded><![CDATA[<strong> <strong>Updates Framework for RPG-Centric Web Development on IBM i</strong></strong>
+
+<strong>CHICAGO, <abbr title="IL">IL</abbr></strong>. CNX announced today the first post-Beta release for version 3.0 of the Valence Web Application Framework for IBM i. Valence 3.0 includes numerous browser component enhancements and adds mobile device support to the package, providing state-of-the-art tools for IBM i programmers to create true Web 2.0-style applications for virtually any device with a browser.
+
+“This latest version of Valence is more than just an incremental release,” said Richard Milone, CNX Chief Technical Officer. “For starters, the portal has undergone a beautiful redesign with some great new features to make it easier to use than ever. And with native support for mobile devices now included, this release will be of particular interest to developers who want to address the rapidly growing community of smartphone and tablet users.”
+
+Designed explicitly for RPG programmers, Valence 3.0 includes Sencha Ext JS components for the front-end browser that communicate directly with RPG programs on the back-end IBM i server. Valence runs entirely through IBM i's integrated Apache server – no additional severs or hardware is required. CNX has developed numerous training videos and sample programs available for free download to assist RPG programmers with understanding JavaScript syntax and related Web 2.0 development concepts.
+
+While the core Valence framework remains free to all IBM i developers under terms of a “Community Developer License,” Version 3.0 also includes premium “Enterprise” features that can be licensed on a per-machine basis for an unlimited number of developers. Enterprise features include a browser-based source editor for maintaining front-end JavaScript code and an integrated Instance Manager for cloning, updating and managing Valence server instances. Enterprise features are automatically activated on a 90-day trial basis when Valence is downloaded and installed.
+
+“Our intent with Valence is to make sure cost is never a barrier to entry for RPGers who want to dip their toes into the Web 2.0 development waters,” explained Milone, “so the free Community Edition of Valence contains everything those programmers need to create world class browser apps. They can play with the framework in this mode for as long as they like at no cost. Then, once they've deployed some apps to their users and feel comfortable with the framework, upgrading to a modestly priced Professional or Enterprise-level license may make sense to ensure they have the best tools and support available for their Valence development going forward.”
+
+As with prior releases, the Valence 3.0 framework includes an intuitive web portal for controlling IBM i library lists and security for all programs, as well as an intuitive navigation tree from which users can launch the browser applications to which they are authorized. When mobile devices such as iPads are being used, the Valence Portal now automatically switches the interface to a native Touch-friendly format.
+
+Valence 3.0, the seventh major release of the Valence Framework since it was launched in May 2008, includes the following new features and enhancements:
+<ul>
+	<li>Mobile device support – with Sencha Touch included, Valence now supports a wide range of mobile devices, including iPads, iPhones, and devices running on the Android OS.</li>
+	<li>Updated Ext JS library – The latest release of Valence's front-end framework from Sencha (Ext JS 4.0.1) features faster component rendering, updated grids, new APIs and classes, advanced charting and graphing options, and much more.</li>
+	<li>Valence Portal improvements – The Portal will now recognize when it's being launched on a mobile device and automatically switch to a new touch-friendly format; On the desktop, users can configure the Portal to use a drop-down menu in lieu of the standard navigation tree to launch apps; Users can also now switch between environments without having to log out. Administrative apps have been reformatted to make it easier to see which users have authority to which applications; New configuration settings have been added to make it easier to add new apps to groups and navigation trees</li>
+	<li>Valence Enterprise features – Built right into the Valence Portal, the Valence Nitro Source Editor makes opening and editing JavaScript files of any size a breeze; The new Valence Instance Manager automates the formerly tedious process of cloning Valence server instances (i.e., for test environments) and managing upgrades.</li>
+	<li>Updated examples and applications – Many of the example programs have been updated to showcase use of new Ext JS 4 features, and new examples have been added to demonstrate Touch application development; Administration programs have been rewritten to demonstrate a more modern object-oriented front-end using Ext JS 4.</li>
+	<li>New back-end RPG functions and improvements – Developers can now cache frequently accessed lists for faster rendering in combo boxes between applications; SQL-to-JSON functions have been further optimized to improve response time.</li>
+</ul>
+For additional Valence 3.0 details, including a three-minute video demonstrating some of the new features, <a href="http://cnxcorp.com/index.php">click here</a>. Or <a href="http://cnxcorp.com/store/">download Valence free</a>.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>258</wp:post_id>
+		<wp:post_date><![CDATA[2011-08-19 21:39:54]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2011-08-19 21:39:54]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[cnx-announces-official-release-valence-3-0]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="press"><![CDATA[Press]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>CNX Goes Mobile with Valence 3.0</title>
+		<link>https://www.cnxcorp.com/2011/05/17/cnx-goes-mobile-valence-3-0/</link>
+		<pubDate>Tue, 17 May 2011 21:41:22 +0000</pubDate>
+		<dc:creator><![CDATA[rmilone]]></dc:creator>
+		<guid isPermaLink="false">https://www.cnxcorp.com/?p=261</guid>
+		<description></description>
+		<content:encoded><![CDATA[<strong> by Alex Woodie</strong>
+
+IBM i shops that are looking for tools to create mobile interfaces for RPG applications should take a look at the latest release of Valence from CNX. The software company used the recent COMMON conference in Minneapolis as a venue for launching Valence 3.0, which adds the capability to create touch-driven user interfaces for mobile devices like the iPhone and Android phones.
+
+CNX launched Valence in May 2008 as a way to create modern-looking Web 2.0 applications that run on the IBM i server's Apache Web server and are powered by RPG business logic. The product has several components, including an OEM version of the Ext JS JavaScript library from Sencha, which gets developers access to pre-developed UI elements like drop-down boxes, auto-complete functions, expandable trees, tab panels, and grids with sortable columns. Rounding out the suite are a set of RPG procedures for integrating the JavaScript-based front-end with existing RPG business logic; and a Web portal framework that provides customers with navigation and security.
+
+With version 3, CNX has enhanced the Web portal framework to support the delivery of Valence applications to the latest mobile devices, like the iOS series of products from Apple and anything running the Android OS from Google. The framework automatically detects what kind of device the customer is using, and adapts the interface accordingly, the company says.
+
+The fact that Valence 3.0 has its roots in the RPG world will appeal to IBM i developers looking to create touch-driven user interfaces with mobile devices, according to Richard Milone, CNX's chief technical officer. "With native support for mobile devices, Valence 3.0 will be of particular interest to developers who want to address the rapidly growing community of smartphone and tablet users," Milone stated in a press release.
+
+Valence 3.0 also includes the latest JavaScript enhancements packaged in Ext JS 4.0, which became available in late April. Ext JS 4.0 delivers faster component rendering, updated grids, new APIs and classes, and advanced charting and graphing options, among other new features. The new version of Ext JS has been reformatted to support building large applications, says CNX principle Robert Swanson.
+
+The RPG procedures have also been enhanced to speed application performance. CNX says developers can cache frequently accessed lists for faster rendering. The company has also optimized its SQL-to-JSON functions. JSON is the native formatting language used by JavaScript applications.
+
+CNX also updated its portal to provide desktop users with a choice between a drop-down menu or the standard navigation tree. Administrators now have greater insight into which applications their users are authorized to use. Also the company has added new configuration settings that make it easier to add new applications to groups and navigation trees, the company says.
+
+The total Valence experience is becoming more refined with version 3.0. The company expects to have more example programs that show customers how to do things, such as develop a touch-friendly application for an Android phone. CNX has also rewritten administration programs to demonstrate the more modern, object-oriented front-end that's possible with Ext JS 4.0, the company says.
+
+CNX expects to have three beta releases before Valence 3.0 is ready for general availability, which is expected to occur next month. Pricing is expected to remain the same as previous releases. That means the community version is distributed free of charge, while the professional version costs $595 per license. Licenses for OEM distribution are also available.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>261</wp:post_id>
+		<wp:post_date><![CDATA[2011-05-17 21:41:22]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2011-05-17 21:41:22]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[cnx-goes-mobile-valence-3-0]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="press"><![CDATA[Press]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>CNX Unveils Latest Release of Valence for Web 2.0 Development on IBM i</title>
+		<link>https://www.cnxcorp.com/2011/05/01/cnx-unveils-latest-release-valence-web-2-0-development-ibm/</link>
+		<pubDate>Sun, 01 May 2011 21:42:47 +0000</pubDate>
+		<dc:creator><![CDATA[rmilone]]></dc:creator>
+		<guid isPermaLink="false">https://www.cnxcorp.com/?p=263</guid>
+		<description></description>
+		<content:encoded><![CDATA[<strong> MINNEAPOLIS, <abbr title="Minnesota"> MN</abbr></strong>. CNX announced today at COMMON the first Beta release for version 3.0 of the Valence Web Application Framework for IBM i. This release includes numerous browser component enhancements and adds mobile device support to the Valence package, further empowering IBM i programmers to create true “Web 2.0” style applications for just about any computing device, all served through standard ILE RPG.
+
+“We’re excited to give the Valence community a sneak peak to the upcoming Valence 3.0 features through this first Beta release,” said Richard Milone, CNX Chief Technical Officer. “With native support for mobile devices, Valence 3.0 will be of particular interest to developers who want to address the rapidly growing community of smartphone and tablet users.”
+
+Designed explicitly for RPG programmers, Valence 3.0 includes JavaScript components from Sencha on the front!end that communicate directly with RPG programs on the back-end. Valence runs entirely through IBM i’s integrated Apache server – no additional severs or hardware is required. CNX has developed numerous training videos and sample programs (available for free download) to assist RPG programmers with understanding JavaScript syntax and related Web 2.0 development concepts.
+
+As with prior releases, the Valence 3.0 framework includes a user-friendly web portal for controlling IBM i library lists and security for all programs, as well as an intuitive navigation tree from which users can launch the browser applications to which they are authorized. When mobile devices such as iPads are being used, the Valence Portal now automatically switches the interface to a native Touch-friendly format.
+
+“Seasoned Valence developers who have been anxiously awaiting the latest release of Ext JS 4 will be pleased to see it has already been incorporated into this Beta,” said Milone, noting that Ext JS 4.0.0 was formally released by Sencha on April 26. For backward compatibility, Valence 3.0 still includes the Ext JS 3 libraries. This means Valence 2.2 applications can be migrated into Valence 3.0 and function in the new portal without requiring modifications to the code.
+
+This Beta version of Valence 3.0, a preview to the seventh major release of the framework since it was launched in May 2008, includes the following new features and enhancements:
+<div id="features">
+<ul>
+	<li><strong>Mobile device support </strong>– with Sencha Touch included, Valence now supports a wide range of mobile devices, including iPads, iPhones, and devices running on the Android OS.</li>
+	<li><strong>Updated Ext JS library </strong>– The latest release of Valence’s front-end framework (Ext JS 4.0.0) features faster component rendering, updated grids, new APIs and classes, advanced charting and graphing options, and much more.</li>
+	<li><strong>Valence Portal improvements</strong> – The Portal will now recognize when it’s being launched on a mobile device and automatically switch to a new touch-friendly format; On the desktop, users can now configure the Portal to use a drop-down menu in lieu of the standard navigation tree to launch options; Users can now switch between environments without having to log out. Administrative options have been reformatted to make it easier to see which users have authority to which applications; New configuration settings have been added to make it easier to add new apps to groups and navigation trees</li>
+	<li><strong>Updated examples and applications </strong>– Many of the example programs have been updated to showcase use of new Ext JS 4 features, and new examples have been added to demonstrate Touch application development; Administration programs have been rewritten to demonstrate a more modern object-oriented front-end using Ext JS 4.</li>
+	<li><strong>New back-end RPG functions and improvements</strong> – Developers can now cache frequently accessed lists for faster rendering in combo boxes between applications; SQL-to-JSON functions have been further optimized to improve response time.</li>
+</ul>
+</div>
+This is the first of several planned Beta releases for Valence 3.0. As such, some elements of the release – including documentation and multilingual literal translations – may not yet be complete. CNX expects the final release of Valence 3.0 to be available by June 2011. See <a href="https://www.cnxcorp.com/valence/features/"><strong>additional details</strong></a> on Valence 3.0 or <a href="https://secure.cnxcorp.com/downloads"><strong>download</strong></a> the latest Beta.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>263</wp:post_id>
+		<wp:post_date><![CDATA[2011-05-01 21:42:47]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2011-05-01 21:42:47]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[cnx-unveils-latest-release-valence-web-2-0-development-ibm]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="press"><![CDATA[Press]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>IBM i Shops Warming to Free &amp; Open Source Dev Tools, CNX Says</title>
+		<link>https://www.cnxcorp.com/2010/10/12/ibm-shops-warming-free-open-source-dev-tools-cnx-says/</link>
+		<pubDate>Tue, 12 Oct 2010 21:44:26 +0000</pubDate>
+		<dc:creator><![CDATA[rmilone]]></dc:creator>
+		<guid isPermaLink="false">https://www.cnxcorp.com/?p=267</guid>
+		<description></description>
+		<content:encoded><![CDATA[<em>Alex Woodie, IT Jungle</em>
+
+Old habits are hard to break. Just try to take away the green-screen applications and tools from an IBM i shop entrenched in this mode of operation, and you'll see sparks fly. But to be competitive in this world, IBM i shops must break the 5250 habit and develop for the Web. Luckily, IBM i Web development tools are maturing rapidly, and some of them, such as <a href="https://www.cnxcorp.com" target="new">CNX</a>'s JavaScript-based toolkit, called Valence, are available under the free and open source distribution model.
+
+CNX made the switch to free and open source software <a href="http://www.itjungle.com/fhs/fhs030210-story01.html" target="new">earlier this year</a> with the version 2.1 launch of Valence, its Web 2.0 framework and toolkit specifically designed for creating AJAX-based Web applications that run on the IBM i server and its integrated Apache Web server. CNX gives customers unlimited internal use for Valence, which is available for download from <a href="https://www.cnxcorp.com" target="new">www.cnxcorp.com</a>. For external production apps, CNX gives customers the option of using the open source license, as long as they contribute their work back to the Valence community, or purchase an unlimited production license for about $600.
+
+The change in business model--from selling pricey licenses to basically giving away the software and making money through services--is paying off nicely for the Chicago company, says Robert Swanson, a CNX principal. "We have tons of work, and are in hiring mode" he tells <em>IT Jungle</em>.
+
+There is a big cultural gap between traditional IBM i programmers and today's Web programmers, but it's starting to narrow, Swanson says. "I think it's an awareness thing," he says. "The concept of a free open source development platform is kind of foreign [to IBM i shops]. Most companies that run on i are big institutions that want to be licensed on everything they use. They want to be as official as they can be.
+
+"But I think it's catching on," he continues. "The Web is rife with all these different free or virtually free development frameworks. EXT, Dojo, JQuery, Yahoo, and Google all have free or virtually free components out there. We're swimming in the same direction as they are now."
+
+And hopefully IBM i shops will start catching on, too.
+<h3>Get Thee Some JavaScript</h3>
+Here's another technology direction that IBM i shops would do well to align themselves with: JavaScript. JavaScript is the secret sauce that's common to all of those snazzy AJAX Web applications.
+
+Valence provides an IBM i "retrofit" for EXT, one of the most common JavaScript libraries. Valence customers must learn JavaScript to become proficient with the tool. But that's a small price to pay for developing killer Web apps that are native to the IBM i platform and even use RPG for back-end logic, according to Swanson.
+
+"On Valence, the only new thing you're learning is JavaScript, and that's applicable to any platform," he says. "I don't think anybody should be shy about learning this stuff. It's not that hard and it increases employment value."
+
+As it ramps up its technical services business, CNX looks far and wide for RPG developers it can hire who are also skilled in JavaScript. "But most are gainfully employed, so we end up hiring JavaScript people and we teach them RPG," Swanson says.
+
+The next best thing to a single programmer who's proficient in both RPG and JavaScript is a team composed of one RPG programmer and one JavaScript writer. "The two paired together can whip out apps real fast," Swanson says. "Kids with JavaScript can do the razzle dazzle displays, and the RPG programmer provides the database logic, so the application functions quickly and efficiently. It's a good team. That's what I encourage. And the two can learn from each other."
+<h3>Valence 2.2</h3>
+By the way, CNX recently shipped Valence 2.2. The new release features improvements in single sign-on, performance, and testing.
+
+This release adds support for <a href="http://www.ibm.com" target="new">IBM</a>'s Enterprise Identity Mapping (EIM) technology and Kerberos, which EIM also uses. Customers can now use EIM Kerberos credentials to sign into the Valence portal.
+
+Similarly, support for IBM i IDs and passwords will make it easier for some customers to use Valence. Some customers may not want to use their IBM i IDs for Valence for security reasons. But there is nothing stopping customers with version 2.2 from associating one or more Valence user IDs with an IBM i user ID.
+
+On the performance front, user requests for data from the IBM i will be returned a tad faster as the result of a tweak CNX made with the code. With this release, CNX enables multiple data sets to be sent simultaneously from the IBM i server to the Web browser, using the VVIN call. Previously, the data sets were sent down to the Web browser one at a time, as RPG fetched the data from DB2/400 and then sent it to the HTTP server for delivery.
+
+Swanson says the result will be a savings of several hundred microseconds for a typical transaction that is reduced from five AJAX calls down to one. While relatively small, the result will be noticeable, especially on the faster Power Systems servers. "The performance on these things is beastly, so it screams," he says. (This isn't the be-all, end-all for performance, as many other factors, such as the number of CGI jobs the Apache server is configured to have running, have a big influence on Web app performance, too.)
+
+CNX also delivered a new capability for testing the back-end RPG component of a Valence application separately from the JavaScript-based front-end. Being able to test the RPG logic before the user interface is complete will allow the RPG programmers to complete their parts of the project separate from the user interface developers.
+
+"Sometimes the guy doing the business logic finishes first, and doesn't want to wait around to test it," Swanson says. "With this new feature, they can launch the business logic, fill in some variables, and see how it responds."
+
+Lastly, Valence 2.2 gains support for Ext version 3.2.2, the latest release of the JavaScript toolkit, which is now distributed by <a href="http://www.sencha.com" target="new">Sencha</a>.
+
+<a href="http://www.itjungle.com/fhs/fhs101210-story05.html">Original Article </a>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>267</wp:post_id>
+		<wp:post_date><![CDATA[2010-10-12 21:44:26]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2010-10-12 21:44:26]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[ibm-shops-warming-free-open-source-dev-tools-cnx-says]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="press"><![CDATA[Press]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Symmetrical Solutions takes Protivity to the Next Level with Valence</title>
+		<link>https://www.cnxcorp.com/2010/09/22/symmetrical-solutions-takes-protivity-next-level-valence/</link>
+		<pubDate>Wed, 22 Sep 2010 21:45:55 +0000</pubDate>
+		<dc:creator><![CDATA[rmilone]]></dc:creator>
+		<guid isPermaLink="false">https://www.cnxcorp.com/?p=269</guid>
+		<description></description>
+		<content:encoded><![CDATA[<strong>CHAPEL HILL,<abbr title="United Kingdom"> NC</abbr></strong>. Symmetrical Solutions announced the next release of Protivity today at its annual user conference in Chapel Hill, North Carolina.  The Wisconsin-based company has selected CNX Corporation’s Valence Framework to provide the core web technology for this next release of Protivity, currently in the final stages of product development.
+
+“Making our software easy to use is our top priority,” said Bob Dzialowski, Symmetrical Solutions managing partner.  “The Valence framework, with its intuitive portal functionality and robust back-end server support, provides a fantastic basis for delivering the user-friendly Web 2.0 features our Protivity users require.”
+
+Programmers from Symmetrical Solutions have been working with developers at CNX to migrate the various modules comprising Protivity, many of which had been available in green screen only, over to the Valence framework.  Some of the new Valence-enabled features were demonstrated at the user conference today.
+
+“The attendees who saw today’s sneak peak of the new software were very excited by what they see coming,” Dzialowski said.  “The web applications in the current version of Protivity require Internet Explorer and have somewhat rigid functionality.  Our new Valence-enabled version of Protivity is both faster and compatible across all browsers.  It can even support multiple instances running at the same time on multiple tabs.”
+
+Among the more popular Protivity features is its “Key Indicators” module, which provides management with data mining and reporting functionality over Protivity data.  The Valence-enabled version of Key Indicators takes these features to the next level, with flexible grids and charts making it easier than ever for users to analyze their multitudes of data.
+
+“We’ve got millions of lines of time-tested RPG code behind Protivity,” said Dzialowski, “so we’re excited to be preserving the investment in these programs as they’re retrofitted to work with the next generation Web 2.0 interface Valence provides.
+
+General release of Protivity 3.1 is expected in October 2010.
+<h3>About Symmetrical Solutions</h3>
+Headquartered in Germantown, WI, Symmetrical Solutions designs, builds and supports the Protivity software suite, helping member-oriented organizations efficiently manage their business operations.  Protivity has over 200 installations at YMCAs, YWCAs, JCCs and Boys &amp; Girls Clubs, as well as other types of membership-oriented organizations including Parks and Recreation Departments, Community Centers and Zoos.  For additional details, please visit <a href="http://www.symsol.com/">www.symsol.com</a>.
+<h3>About CNX</h3>
+Headquartered in Chicago, IL, CNX Corporation develops and markets the Valence Web Application Framework for IBM i.  Designed from the ground‐up explicitly for RPG programmers, Valence employs Ext JS JavaScript components on the front‐end and communicates directly with RPG business logic on the back-end.  Valence runs entirely through the IBM i’s integrated Apache server -- no additional severs or hardware is required.  Valence is available for free under the terms of a Community Developer License, or can be commercially licensed under either a Professional Developer or OEM license.  For additional details, please visit <a href="https://www.cnxcorp.com/">www.cnxcorp.com</a>.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>269</wp:post_id>
+		<wp:post_date><![CDATA[2010-09-22 21:45:55]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2010-09-22 21:45:55]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[symmetrical-solutions-takes-protivity-next-level-valence]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="press"><![CDATA[Press]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Dancerace plc Selects Valence as Core Web Technology for Next Release of C3 </title>
+		<link>https://www.cnxcorp.com/2010/06/14/dancerace-plc-selects-valence-core-web-technology-next-release-c3/</link>
+		<pubDate>Mon, 14 Jun 2010 21:46:27 +0000</pubDate>
+		<dc:creator><![CDATA[rmilone]]></dc:creator>
+		<guid isPermaLink="false">https://www.cnxcorp.com/?p=271</guid>
+		<description></description>
+		<content:encoded><![CDATA[<strong>BATH, <abbr title="United Kingdom">UK</abbr></strong>. Dancerace plc announces today the selection of CNX Corporation's Valence Framework as the core web technology for the next version of C3.  The addition of the Valence Framework as a core technology to Dancerace’s C3 invoice finance management software will give the product a state-of-the art rich user interface.
+
+"We've created some fantastic interfaces over the years using RPG and green screen technology, in fact taken it to the limits,” says Anthony Avison, Chief Executive Officer of Dancerace.  “But there’s only so far you can take the green screen.  A rich browser interface is the clear choice going forward, and Valence gives us an excellent technology base for fusing our powerful RPG back-end business logic with a robust, rich and user-friendly front end."
+
+Dancerace and CNX development teams in the U.K. and U.S. have been working together to create the new Version 5 of C3, which will go live by the end of 2010.  This version of C3 will operate within a modified Valence Portal, offering users functionality not currently available in the green screen version, while still maintaining continuity with previous versions.
+
+"We're looking at adding many types of user-empowering features to C3 with the next version," says Avison, “including intuitive wizards and dashboards.  I expect these enhancements will be very well received by C3 users."
+<h3>About Dancerace</h3>
+Headquartered in Bath, U.K., Dancerace designs, builds and supports the world's most powerful, reliable, affordable and easy to deploy invoice finance management software. Servicing customers in all seven continents, Dancerace hosts its IBM i-based solutions out of twin data centres in Bath to ensure the utmost in both reliability and performance. For additional details, please visit <a href="http://www.dancerace.com">www.dancerace.com</a>.
+<h3>About CNX</h3>
+Headquartered in Chicago, CNX Corporation designs and markets the Valence Web Application Framework for IBM i. Designed from the ground‐up explicitly for RPG programmers, Valence employs Ext JS JavaScript components on the front‐end and communicates directly with RPG business logic on the back-end. Valence is available for free under the terms of the Community Developer License, or can be commercially licensed under either a Professional Developer or OEM license. For additional details, please visit <a href="https://www.cnxcorp.com">www.cnxcorp.com</a>.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>271</wp:post_id>
+		<wp:post_date><![CDATA[2010-06-14 21:46:27]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2010-06-14 21:46:27]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[dancerace-plc-selects-valence-core-web-technology-next-release-c3]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="press"><![CDATA[Press]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>CNX Unveils Latest Release of Valence for Web 2.0 Development on the System i </title>
+		<link>https://www.cnxcorp.com/2010/03/01/cnx-unveils-latest-release-valence-web-2-0-development-system/</link>
+		<pubDate>Mon, 01 Mar 2010 21:47:14 +0000</pubDate>
+		<dc:creator><![CDATA[rmilone]]></dc:creator>
+		<guid isPermaLink="false">https://www.cnxcorp.com/?p=273</guid>
+		<description></description>
+		<content:encoded><![CDATA[<strong>Chicago, <abbr title="Illinois">IL</abbr></strong>. CNX announces today the general availability of version 2.1 of the Valence Web Application Framework for System i. This release adds new functionality and programming APIs to the Valence package, further empowering System i programmers to create true "Web 2.0" style browser applications served through standard ILE RPG.
+
+"This is our most sweeping Valence announcement yet," said Richard Milone, CNX Chief Technical Officer. "Most of the enhancements for this release came directly as a result of customer suggestions and requests, running the gamut from the handling of double­‐byte character sets to the way we license the software."
+
+Designed from the ground-up explicitly for RPG programmers, Valence employs ExtJS JavaScript components on the front‐end and communicates directly with RPG business logic on the back-­end. Valence runs entirely on the System i's integrated Apache server—no additional severs or hardware is required. CNX has developed numerous training videos and sample programs (available for free download) to assist RPG programmers with understanding JavaScript syntax and related Web 2.0 development concepts.
+
+As with prior releases, the Valence 2.1 framework includes a user-friendly web portal to control System i library lists and security for all programs, as well as an intuitive navigation tree from which users can launch authorized browser applications. Existing green screen programs can be re-engineered with Valence one program at a time to work in this Web 2.0 paradigm, each application added to the appropriate user navigation tree(s) when ready. This approach offers System i programmers a path for gradually moving their critical business applications into the Web 2.0 world, providing a vastly superior browser interface for end users when compared to 5250 "screen-scraping" alternatives.
+
+This latest version of Valence, the fifth major release since the product was launched in May 2008, includes the following new features and enhancements:
+<ul>
+	<li>Full international character set support – Valence now works in Unicode and can support multiple languages in the same instance, or even in the same field! The Valence portal come pre-supplied with translations in English, French, German, Spanish, Italian, Dutch, Russian and Japanese. Additional languages can be added.</li>
+	<li>Expanded AutoCode functionality – Introduced in Valence 2.0, this widely popular development tool that automatically writes front-end and back-end source code now includes full add/edit/delete functionality. Developers can now create basic master file maintenance programs in a matter of seconds, then enhance the highly readable code to suit their needs.</li>
+	<li>New back-end RPG functions – New Valence procedures allow programmers to plug multiple browser fields straight into an RPG data structure or array, route the results of an SQL statement straight into an Excel-style spreadsheet, work with graphic-type fields and much more.</li>
+	<li>Improved back-end performance – Reengineered back-end JSON formatting procedures mean even speedier response times to the front-end for this release.</li>
+	<li>Robust error and exception management – Valence now logs all back-end RPG program errors and exceptions in a special incident file, providing programmers valuable information for their development and debugging efforts. Valence can also be configured to send out emails when specific back-end error conditions are encountered.</li>
+	<li>Valence Portal improvements – New features include an application for maintaining server instance settings (formerly stored as environment variables), exit program support to coincide with users logging in/logging out/launching applications, translations maintenance and added filtering capabilities in the administration programs.</li>
+	<li>Updated front-end ExtJS framework – Advanced from v3.0.0 to v3.1.1, adding numerous front-end component features and performance improvements to the Valence 2.1 package.</li>
+</ul>
+In addition to all the new features, Valence 2.1 introduces a completely new developer-centric licensing model, replacing the "one size fits all" approach for prior releases. There are now three levels of licensing available for Valence:
+<ul>
+	<li>Valence Community Developer License — This license is no-cost, and includes the full source code for the base release. Developers are free to download the software and experiment in a test or trial mode without restriction. Under a "quid pro quo" rule, the source code for any applications developed and deployed to production under this free license must be shared with the Valence "community" (meaning the source must be submitted to the Valence forum). In providing this license option, CNX is no longer limiting Valence trial periods to 90 days – in essence, the Community Developer License can serve as an unlimited trial option for anyone that wants to experiment with Valence Web 2.0 development on their own System i.</li>
+	<li>Valence Professional Developer License — This license is charged on a straight per-developer basis at a rate of $595, with multi-developer discounts available. This license does not include support from CNX, but support packs can be purchased separately for developers that want them. Valence applications developed under this license can remain private (no need to submit the source to the Valence forum), but they cannot be made part of a commercial software package or hosting service. This license is most appropriate for developers within companies that are creating software for their own users and don't want to be required to publish their source.</li>
+	<li>Valence OEM Developer License — This license includes the same terms as the Professional Developer License, with an added allowance for using the Valence framework in commercial software applications for resale or as part of a hosted software solution. This license is negotiated at the company-level and not by individual developer, such that any number of developers could be covered under one license.</li>
+</ul>
+"With the introduction of the free Community Developer License, we've made it super easy for RPGers to take the Valence Web 2.0 design methodology for a thorough, unrestricted test drive on their system i," said Milone, adding, "Once users see the powerful and intuitive browser apps their development staff can produce so quickly with Valence, it tends to open doors to all sorts of new IT initiatives for their companies. It's a great way to show off the true scalability and performance of their RPG-based systems."
+
+For additional Valence release 2.1 details and to download the software, please visit <a href="http://cnxcorp.com/press/archive/2010/03/cnx-unveils-latest-release-of-valence/www.cnxcorp.com/valence">www.cnxcorp.com/valence</a>.
+<div class="alert alert-info">
+
+To see demonstration videos and download a free trial of Valence, visit <a href="http://cnxcorp.com/valence/">www.cnxcorp.com/valence</a>.
+
+</div>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>273</wp:post_id>
+		<wp:post_date><![CDATA[2010-03-01 21:47:14]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2010-03-01 21:47:14]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[cnx-unveils-latest-release-valence-web-2-0-development-system]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="press"><![CDATA[Press]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>CNX Announces the availability of version 1.2 of the Valence Web Application Framework for System i</title>
+		<link>https://www.cnxcorp.com/2009/05/19/cnx-announces-availability-version-1-2-valence-web-application-framework-system/</link>
+		<pubDate>Tue, 19 May 2009 21:47:56 +0000</pubDate>
+		<dc:creator><![CDATA[rmilone]]></dc:creator>
+		<guid isPermaLink="false">https://www.cnxcorp.com/?p=275</guid>
+		<description></description>
+		<content:encoded><![CDATA[<strong>Chicago, <abbr title="Illinois">IL</abbr></strong>. CNX announced today the general availability of version 1.2 of the <a href="http://cnxcorp.com/valence/">Valence Web Application Framework for System i</a>. This release adds new functionality and programming APIs to the Valence package, further empowering System i programmers to create true “Web 2.0” browser applications using RPG.
+
+Designed from the ground-up explicitly for ILE RPG programmers, Valence uses ExtJS JavaScript components on the front-end and communicates directly with System i RPG business logic on the back-end. CNX has developed numerous training videos and sample programs (available for free download) to assist RPG programmers with understanding JavaScript syntax and related Web 2.0 concepts.
+
+The Valence framework includes a user-friendly web portal to control System i library lists and security for all programs, as well as an intuitive navigation tree from which users can launch authorized applications. Existing green screen programs can be re-engineered with Valence one program at a time to work within this framework. Each application can then be added to the appropriate user navigation tree(s) when ready. This offers System i programmers a path for gradually moving their critical business applications into the Web 2.0 world, providing a vastly more satisfying browser interface for end users when compared to 5250 “screen-scraping” alternatives.
+
+<strong>This latest version of Valence, the third significant release since the package was launched in May 2008, includes the following new features and enhancements:</strong>
+<div id="features">
+<ul>
+	<li>Option for users to log in to the Valence Portal using the same System i user ID and password used to log into their green screen sessions</li>
+	<li>Enhanced Valence administration programs, including new advanced search and grouping options</li>
+	<li>New back-end RPG functions, including additional data formatting APIs, expanded tree support and the ability to receive data from the browser front-end directly into an RPG array</li>
+	<li>Significant speed and memory management improvements — round-trip response times are now as low as 8 milliseconds!</li>
+	<li>Updated front-end ExtJS framework (upgraded from v2.0.1 to v2.2.1), adding numerous front-end component features to the Valence package</li>
+</ul>
+</div>
+For additional Valence release 1.2 details, and to view on-line demonstration videos (including videos of actual deployed applications), please visit <a href="http://cnxcorp.com/valence/">www.cnxcorp.com/valence</a>. Valence is available for a <a href="http://cnxcorp.com/valence/try/">free 90-day trial download</a>.
+<div class="alert alert-info">
+<p class="note">To see demonstration videos and download a free trial of Valence, visit <a href="http://cnxcorp.com/valence/">www.cnxcorp.com/valence</a>.</p>
+
+</div>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>275</wp:post_id>
+		<wp:post_date><![CDATA[2009-05-19 21:47:56]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2009-05-19 21:47:56]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[cnx-announces-availability-version-1-2-valence-web-application-framework-system]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="press"><![CDATA[Press]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>CNX Launches Valence at RPG World 2008</title>
+		<link>https://www.cnxcorp.com/2008/05/05/cnx-launches-valence-rpg-world-2008/</link>
+		<pubDate>Mon, 05 May 2008 21:48:42 +0000</pubDate>
+		<dc:creator><![CDATA[rmilone]]></dc:creator>
+		<guid isPermaLink="false">https://www.cnxcorp.com/?p=277</guid>
+		<description></description>
+		<content:encoded><![CDATA[<strong>Las Vegas, <abbr title="Nevada">NV</abbr></strong>. CNX introduced the Valence Web Application Framework to an enthusiastic RPG community at the annual RPG World Convention in the Orleans Convention Center. The official announcement of the product was made from the Vendor Expo, where RPG programmers attending the popular show from around the world saw Valence product demonstrations and spoke directly with the Valence development team.
+
+CNX partner Richard Milone supplemented the Valence announcement with a special session demonstrating the use of JavaScript with RPG to create Web 2.0 applications. During the well-attended session, Milone explained how System i developers can leverage their business knowledge and RPG skills to create dazzling browser-based applications using JavaScript concepts that have been taking the web community by storm in recent years. Valence includes the popular ExtJS JavaScript Library, a collection of components that developers can use to create dazzling Web 2.0 front-ends to business logic written in RPG, as well as the Fusion Charts suite for adding animated graphing and dashboard functionality to the browser applications.
+
+“The best thing about JavaScript is its ubiquity—there are countless forums and examples available all over the web now to learn from,” Milone said. “So with the tools we provide through Valence to bridge RPG and JavaScript, developers can be up and running quickly, creating fully functional Web 2.0 applications in no time. It totally changes the game for anyone developing applications for the System i.”
+
+To assist RPG developers in learning how to interface their programs with JavaScript, CNX has produced a series of instructional videos and sample programs, available for free at <a href="http://cnxcorp.com/valence/">www.cnxcorp.com/valence</a>. The entire Valence package is also available as a free download on a 30-day trial basis. “The best way to see how all this works is to download the Valence package and get your hands dirty—you’ll be amazed at how quickly you can produce rich user interfaces running on your system i,” Milone said. “And as an added bonus, by learning these simple JavaScript procedures you will have added a really valuable skill to your IT resume, taking you way beyond the green screen centric perception many people have regarding RPG programmers.”
+<div class="alert alert-info">To see demonstration videos and download a free trial of Valence, visit <a href="http://cnxcorp.com/valence/">www.cnxcorp.com/valence</a>.</div>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>277</wp:post_id>
+		<wp:post_date><![CDATA[2008-05-05 21:48:42]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2008-05-05 21:48:42]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[cnx-launches-valence-rpg-world-2008]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="press"><![CDATA[Press]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>CNX announces release of Valence Web Application Framework for System i</title>
+		<link>https://www.cnxcorp.com/2008/04/29/cnx-announces-release-valence-web-application-framework-system/</link>
+		<pubDate>Tue, 29 Apr 2008 21:49:14 +0000</pubDate>
+		<dc:creator><![CDATA[rmilone]]></dc:creator>
+		<guid isPermaLink="false">https://www.cnxcorp.com/?p=279</guid>
+		<description></description>
+		<content:encoded><![CDATA[<strong>Chicago, <abbr title="Illinois">IL</abbr></strong>. CNX is proud to announce the general release of the Valence Web Application Framework for the IBM System i platform. Valence provides all the tools necessary for System i shops to create rich Web 2.0-based browser interfaces with RPG, and includes an attractive tab-based portal for controlling user access to the applications as they’re developed.
+
+Designed from the ground up by RPG programmers for RPG programmers, Valence uses JavaScript components on the front-end and communicates directly with System i RPG business logic on the back-end. CNX has developed numerous training videos and sample programs (available for <a title="download a 30-day free trial of Valence" href="http://cnxcorp.com/valence/try/">free download</a>) to assist RPG programmers with understanding JavaScript syntax and related Web 2.0 concepts.
+
+The Valence framework controls System i library lists and security for all programs and provides users with an intuitive navigation tree to access each option. With Valence, existing “green screen” programs can be retrofitted one program at a time to work within this framework and added to the users’ navigation tree when ready. This provides shops an option to gradually move their applications into the Web 2.0 world.
+<div class="alert alert-info">To see demonstration videos and download a free trial of Valence, visit <a href="http://cnxcorp.com/valence/">www.cnxcorp.com/valence</a>.</div>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>279</wp:post_id>
+		<wp:post_date><![CDATA[2008-04-29 21:49:14]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2008-04-29 21:49:14]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[cnx-announces-release-valence-web-application-framework-system]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="press"><![CDATA[Press]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Leapfrog Static HTML</title>
+		<link>https://www.cnxcorp.com/2014/01/10/leapfrog-static-html/</link>
+		<pubDate>Fri, 10 Jan 2014 03:18:18 +0000</pubDate>
+		<dc:creator><![CDATA[rmilone]]></dc:creator>
+		<guid isPermaLink="false">https://www.cnxcorp.com/?p=465</guid>
+		<description></description>
+		<content:encoded><![CDATA[<strong>Don't settle for boring static HTML – build modern, dynamic web pages for
+IBM i with Valence</strong>
+
+By now you’ve certainly heard more than enough rumblings about needing to “modernize” your green screen programs to work in a more GUI-like fashion. If you’re like us, this talk may have even reached the point of becoming down-right annoying to you. Well, you may be comforted to know you’ve got company in the web development world! That same sort of nagging “modernization” talk you’ve been hearing about for years regarding your green screen programs is circulating right now among businesses that already have browser-based interfaces but are “still” using plain old static HTML pages. Many of these businesses have made sizable investments in this display model and are now faced with the prospect of having out-dated interfaces that don’t measure up to the competition. Sound familiar?
+
+Simply put, if you’re going to make the leap from green screen into the world of browser-based interfaces, why not leap all the way into the forefront of the technology (<abbr title="also known as">aka</abbr>, “Web 2.0”), versus learning something that’s already being regarded as “yesterday’s technology” among web developers?
+
+We’re here to tell you that, contrary to what you might think, it’s no harder to jump from green screen (5250) into Web 2.0 as opposed to Web 1.0. In fact, we’d go so far as to say it’s actually easier to create Web 2.0 interfaces, and we’ve produced training videos available from this web site geared specifically to the RPG community to prove it! So if you haven’t already spent resources learning how to migrate your 5250 apps into an HTML environment, consider yourself lucky—you can now leap past that mere “stepping stone” technology and into the latest and greatest! The adage, “Good things come to those who wait” may have actually panned out for you.
+
+<a title="Modernize Your Proven System i (AS/400) RPG Applications – Don’t Rip &amp; Replace Them!" href="http://cnxcorp.com/valence/enhance/">Modernize Your Proven IBM i, iSeries, AS/400 RPG Applications — Don’t Rip &amp; Replace Them!</a> »]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>465</wp:post_id>
+		<wp:post_date><![CDATA[2014-01-10 03:18:18]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2014-01-10 03:18:18]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[leapfrog-static-html]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="valence"><![CDATA[Valence]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Don&#039;t &quot;Rip and Replace&quot; Your Proven RPG Applications... Enhance Them!</title>
+		<link>https://www.cnxcorp.com/2014/01/10/dont-rip-replace-proven-rpg-applications-enhance/</link>
+		<pubDate>Fri, 10 Jan 2014 03:43:59 +0000</pubDate>
+		<dc:creator><![CDATA[rmilone]]></dc:creator>
+		<guid isPermaLink="false">https://www.cnxcorp.com/?p=473</guid>
+		<description></description>
+		<content:encoded><![CDATA[Leverage Valence to both add new functionality for your users AND put a new face on your existing IBM i applications!
+
+IT managers “in the know” are keenly aware that for heads-down, hard-core data entry, it’s tough to beat the speed of green screen (5250) programs. This is no surprise, as the 5250 interface was designed for just this purpose — to support the rapid-fire entry of relatively repetitive data by clerical personnel.
+
+That said, data entry is rarely confined to specialists working in dedicated data-entry departments anymore. Today, with virtually every layer of your company or organization interacting with your system in some capacity, the flexibility of an intuitive, full-featured browser interface can go a long way toward putting a fresh and user-friendly face on your IBM i applications. A browser also happens to be the most familiar and comfortable interface for employees that are relatively new to the work force, as these newly minted employees have essentially grown up using browsers and the Internet from an early age. Green screen interfaces are generally foreign to these users and, for lack of a better word, “old” looking.
+
+So the incentive to move your apps into a more conventional GUI environment is certainly there. But moving your users from green screen applications to browser-based applications should result in more than just, well, green screens running in browsers. Screen-scraping solutions may offer tempting “quick fix” tools for migrating green screens into the web, but the resulting applications are never as dynamic and engaging as true “Web 2.0” interfaces. Worse, web-faced applications can perform noticeably slower than the 5250 programs they’re replacing, exacerbated by the lost green screen feature of type-ahead keyboard buffering. While new users may not notice the difference in performance, veteran 5250/Client Access users certainly do. We’ve seen more than a few cases where users migrated to screen-scraped browser interfaces demand their green screens back!
+
+Simply put, to truly win over key users in your company, your green screen RPG applications (or at least those used the heaviest) need to be reengineered to take full advantage of what modern browser interfaces can offer. The resulting user experience in the browser must be so profoundly improved that your users wouldn’t dream of going back to what they had before. Of course, getting to this point entails more than pressing a few buttons in a green screen conversion wizard, but this modernization process is not as hard as some might have you think! Besides, your IBM i applications are designed and maintained by RPG-savvy programmers, not just some button-pushing wizard runners, right?
+<h3>RPG-friendly Web 2.0 Tools</h3>
+Fortunately, Valence provides RPG programmers all the tools and training materials they need to make a quick and successful transition to Web 2.0 development. The resulting applications continue to use familiar RPG business logic on the back-end, while powerful ExtJS JavaScript components serve up and collect the data on the front-end in place of green screens. It doesn’t take long for RPG programmers to get comfortable with this modern web-programming model, and the results truly speak for themselves. Seasoned IBM i users are often stunned when told the Valence applications are running on the same platform as their green screen applications!
+
+Further assisting in the transition from green screen to Web 2.0, Valence includes a robust portal interface that allows users to “log in” to the IBM i through their browsers, same as they would sign on to a regular 5250 emulation session. Upon logging in to this Valence portal, users are presented with a customizable navigation tree with links to all the web applications to which they are authorized. Valence takes care of adjusting library lists and security, allowing you and your staff to focus on the business applications themselves. Your current core IBM i programs can thus be retrofitted to work in the Valence framework and added to the navigation tree as they are made available. Most shops start by upgrading their most important IBM i programs first, adding them to the navigation tree and gradually weaning their users over to the new Web 2.0 interface. Any programs that work in a browser, or even links to other web sites, can be accessed through this portal.
+<h3>Transition your IBM i wisely!</h3>
+Anyone who has been through a large-scale system implementation knows the agony associated with replacing hundreds of active applications and processes across a multi-departmental organization. In addition to the inordinate time and expense required, such large-scale system overhaul initiatives brings with them a substantial risk of failure or business disruption that nobody wants to have as part of his or her career record.
+
+Valence offers IBM i shops an alternate path — a means to “extend and enhance” their stable RPG business applications one program at a time, as opposed to following the whole-system “rip and replace” paradigm that migrating to a completely new package and/or platform would require. This means the IBM i business database and pertinent upstream/downstream processes can remain substantially unchanged as the interfaces for various RPG programs are gradually transformed to work in a Web 2.0 mode.
+
+This Valence model for methodically modernizing interactive IBM i applications provides an attractive and compelling option to IT managers under pressure to defend or overhaul their green screen-centric collection of programs. Why scrap hundreds of thousands of lines of time-proven RPG business logic when in many cases all you need to do is give a makeover to the user interface? It truly can be that simple, and we’re happy to demonstrate it to you! <a href="https://secure.cnxcorp.com/downloads">Download your free trial</a> of Valence, then <a href="http://cnxcorp.com/support/">contact us</a> to have CNX create a free, no-obligation, fully functional prototype application for your business.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>473</wp:post_id>
+		<wp:post_date><![CDATA[2014-01-10 03:43:59]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2014-01-10 03:43:59]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[dont-rip-replace-proven-rpg-applications-enhance]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="valence"><![CDATA[Valence]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>The Genesis of Valence on IBM i</title>
+		<link>https://www.cnxcorp.com/2014/01/10/genesis-valence-ibm/</link>
+		<pubDate>Fri, 10 Jan 2014 03:45:35 +0000</pubDate>
+		<dc:creator><![CDATA[rmilone]]></dc:creator>
+		<guid isPermaLink="false">https://www.cnxcorp.com/?p=475</guid>
+		<description></description>
+		<content:encoded><![CDATA[<strong>How we extended our RPG business logic expertise to the Web 2.0 world</strong>
+
+IBM i developers face a myriad of options when looking for the best way to get their RPG applications to work effectively in a web browser. Just evaluating all the options (i.e., WebSphere, Java, EGL, JSP, third-party tools, etc.) can take months!
+
+It goes without saying that the technology supporting browser interfaces has evolved considerably over the years. If you’ve paid attention, you’ve probably noticed the best web sites have moved from relatively static pages to interactive programs that run more like traditional PC applications. The “Web 2.0” user interface on Google Maps, introduced in 2005, is a fantastic case-in-point -- the ability to move a map around the browser screen dynamically using familiar “drag and drop” actions was truly revolutionary. And with the explosion of mobile apps running on smartphones and tablets taking the IT world by storm, it’s clear that the user interface of choice today is anything but a text-based 5250 screen.
+
+So how can a traditional RPG shop choose the correct path to overhaul its green screen-centric user interfaces to the latest and greatest, like Google Maps? How can the shop be assured that its investment will result in a browser interface that doesn’t look like it’s pinned to yesterday’s technology? And most importantly, how can the shop guarantee the speed and efficiency of its green screen applications won’t be lost once the programs are moved into the browser? These are the same dilemmas we faced with modernizing our own green screen applications.
+
+Valence is the result of many iterations of searching for the best way to migrate our green screen RPG programs into the web world. We literally spent years trying everything from Web Facing/HATS to CGIDEV2/HTML to WebSphere and various third party tools in an attempt to find the “Goldilocks” solution to our quest for a suitable browser interface. Ultimately, as a dedicated RPG shop, we found each solution came up short.
+
+To summarize our findings:
+<h3>Web Facing/HATS</h3>
+The resulting applications from this approach were, in a word, “clunky.” The user experience left much to be desired. Though some degree of customization was possible, the user interface still had the underpinnings of a green screen application and never really took full advantage of the browser’s capabilities. Ultimately, these screen-scraping tools offered little more than temporary solutions, suitable perhaps for rarely-used applications, but definitely not for our core user programs.
+<h3>CGIDEV2/HTML</h3>
+Quite an improvement over Web Facing, but rather labor-intensive on the coding front. And though the user interfaces in HTML were certainly better looking than the 5250 screens we’d been using for years, they still had a sluggish “repaint the whole page” feel that has become passé when compared to modern “Web 2.0” websites.
+<h3>WebSphere</h3>
+We tried to force ourselves to go this route for quite some time, creating and deploying a number of applications under WebSphere. But the WebSphere option was fraught with complications — from a very difficult server setup to the fact that Java is a tough transition for dedicated RPG programmers to embrace. Ultimately we felt the pain involved just simply wasn’t worthy of the resulting output.
+<h3>Other 3rd party tools</h3>
+We tried almost all the web development tools available in the IBM i community that purportedly target RPG developers. While most of the packages were capable of generating simple front-ends to our RPG programs, none were optimized for the true Web 2.0 look-and-feel we desired, and all carried a price tag that would’ve been difficult to justify to our green screen users. Additionally, many of the packages required use of proprietary programming languages or tools that would only work so long as that package was retained. We were looking for a more industry-standard approach to developing the front end, one that would foster development of a skill-set that could be used on or off the IBM i.
+
+Beyond the “webification” of our green screen programs themselves, we also needed a robust menuing system to manage these newly browser-enabled applications in a cohesive fashion. In other words, we needed a browser-based replacement for the green screen menu system used to control access to our programs. None of the options we tried (commonly referred to as “portals”) offered all the features we needed without excessive additional cost or complexity.
+<h3>Enter Valence...</h3>
+After exhausting all conventional options, it became clear that to provide the best possible browser interface for our users we would simply have to build the solution ourselves. So in late 2006 we selected a leading provider of front-end web components (Ext JS, now Sencha) and invested a substantial amount of our development resources to create a brand new set of programming tools, a collection that would be ideally suited to an RPG shop like ours.
+
+The result of this effort, Valence, was launched in the summer of 2008 and has undergone regular enhancements ever since. Today, Valence equips RPG programmers with all the components necessary to create robust web and mobile applications on IBM i using the latest in Web 2.0 technology. Included with Valence is an intuitive portal for logging in to the IBM i and launching applications on a customizable navigation tree – a point and click interface that is quickly understood and embraced by IBM i users. The Valence Portal retains all the requisite security features and controls you expect on IBM i, resulting in an experience is intuitive, elegant and efficient for both developers and end-users alike.
+
+Going well beyond reengineering existing green screens, RPG programmers will find Valence’s amazingly versatile front-end components open up countless opportunities to create brand new applications on both desktops and mobile devices. Collectively, these features offer user interface functionality that isn’t even conceivable to program in the text-based 5250 world. In fact, many of your users won’t believe the Valence applications you create are still running directly on your good old IBM i!
+
+<a href="http://cnxcorp.com/valence/leapfrog/">Leapfrog Static HTML – Dynamic Web Pages for IBM i, iSeries, &amp; AS/400</a> »]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>475</wp:post_id>
+		<wp:post_date><![CDATA[2014-01-10 03:45:35]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2014-01-10 03:45:35]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[genesis-valence-ibm]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="valence"><![CDATA[Valence]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[dsq_thread_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2215923618]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:comment>
+			<wp:comment_id>2</wp:comment_id>
+			<wp:comment_author><![CDATA[chirisdex]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[chirisdex@outlook.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[46.246.123.59]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2014-03-29 01:51:00]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2014-03-29 01:51:00]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[The result of this effort, Valence, was released during summer time time season of 2008 and has gone through frequent improvements ever since. Today, Valence provides RPG developers with all the elements necessary to create effective web and mobile apps on IBM i using the newest in Web 2.0 technology. Involved with Valence is an user-friendly website for signing in to the IBM i and releasing programs on a personalized routing shrub – a point and click interface that is quickly recognized and accepted by IBM i customers. The Valence Portal maintains all the essential security measures and manages you anticipate on IBM i, leading to an experience is user-friendly, stylish and effective for both designers and end-users as well.
+
+
+
+
+
+
+
+
+
+<a href="http://spybubblegratuit.fr/" rel="nofollow">Spybubble gratuit</a> ]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+			<wp:commentmeta>
+				<wp:meta_key><![CDATA[dsq_parent_post_id]]></wp:meta_key>
+				<wp:meta_value><![CDATA[]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key><![CDATA[dsq_post_id]]></wp:meta_key>
+				<wp:meta_value><![CDATA[1309120135]]></wp:meta_value>
+			</wp:commentmeta>
+		</wp:comment>
+	</item>
+	<item>
+		<title>Watch the IBM Systems Magazine Webinar</title>
+		<link>https://www.cnxcorp.com/2012/04/19/watch-ibm-systems-magazine-webinar-recorded-live-april-19-2012/</link>
+		<pubDate>Thu, 19 Apr 2012 20:08:23 +0000</pubDate>
+		<dc:creator><![CDATA[rmilone]]></dc:creator>
+		<guid isPermaLink="false">https://www.cnxcorp.com/?p=509</guid>
+		<description></description>
+		<content:encoded><![CDATA[<div align="center"><iframe id="viddler-32f5bb45" src="//www.viddler.com/embed/32f5bb45/?f=1&amp;autoplay=0&amp;player=simple&amp;secret=80639654&amp;wmode=transparent&amp;loop=0&amp;nologo=0&amp;hd=0" height="348" width="437" frameborder="0"></iframe></div>
+<div align="center"></div>
+<div align="center"><button type="button" class="btn btn-primary">Download Free</button></div>
+&nbsp;
+<h2>Webinar Survey Results</h2>
+<h3>Do You Have?</h3>
+<img alt="" src="/wp-content/uploads/2014/01/chart1.png" />
+<h3>Your Backend Technology</h3>
+<img alt="" src="/wp-content/uploads/2014/01/chart2.png" />
+<h3>Your Experience</h3>
+<img alt="" src="/wp-content/uploads/2014/01/chart3.png" />]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>509</wp:post_id>
+		<wp:post_date><![CDATA[2012-04-19 20:08:23]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2012-04-19 20:08:23]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[watch-ibm-systems-magazine-webinar-recorded-live-april-19-2012]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="valence"><![CDATA[Valence]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>See Valence Live at the WMCPA and get Hands-on Valence Instruction</title>
+		<link>https://www.cnxcorp.com/2014/02/18/see-valence-live-attend-hands-lab-see-easy-take-ibm-apps-web-valence-sencha-architect/</link>
+		<pubDate>Tue, 18 Feb 2014 20:49:49 +0000</pubDate>
+		<dc:creator><![CDATA[rswanson]]></dc:creator>
+		<guid isPermaLink="false">https://www.cnxcorp.com/?p=961</guid>
+		<description></description>
+		<content:encoded><![CDATA[Take <strong>Sencha Architect</strong> for an early test drive on Valence 4.0! CNX will be presenting two brand new IBM i educational sessions at the <strong><a title="WMPCA Conference" href="http://wmcpa.org/index.php/conference-2014" target="_blank">WMCPA Confererence</a></strong>  in Delavan, Wisconsin, on March 12. Attendees will not only get a sneak peek of Valence 4.0 a week before its official release, but they'll also see how Sencha Architect can be used to create an IBM i-based web app from scratch in a matter of minutes.
+
+In the first session, CNX will introduce attendees to some basics on JavaScript (given from an RPG developer's perspective), the Ext JS framework and MVC development concepts. Then, using Architect's drag and drop visual designer, the second session will be a hands-on lab in which attendees get to try out this powerful new approach to building web and mobile apps on IBM i. By the end of the session you'll have your own web equivalent to a subfile app up and running!
+
+<a href="https://www.cnxcorp.com/wp-content/uploads/2014/02/load_all_grid.png"><img src="https://www.cnxcorp.com/wp-content/uploads/2014/02/load_all_grid.png" alt="load_all_grid" width="600" /></a>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>961</wp:post_id>
+		<wp:post_date><![CDATA[2014-02-18 20:49:49]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2014-02-18 20:49:49]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[see-valence-live-attend-hands-lab-see-easy-take-ibm-apps-web-valence-sencha-architect]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="post_tag" nicename="architect"><![CDATA[architect]]></category>
+		<category domain="category" nicename="ext-js"><![CDATA[Ext JS]]></category>
+		<category domain="category" nicename="javascript"><![CDATA[JavaScript]]></category>
+		<category domain="post_tag" nicename="sencha"><![CDATA[sencha]]></category>
+		<category domain="category" nicename="sencha-touch"><![CDATA[Sencha Touch]]></category>
+		<category domain="category" nicename="valence"><![CDATA[Valence]]></category>
+		<category domain="post_tag" nicename="wmpca"><![CDATA[wmpca]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[dsq_thread_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2290584049]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[header_scripts]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_header_scripts]]></wp:meta_key>
+			<wp:meta_value><![CDATA[field_571e8f26f5de9]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[footer_scripts]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_footer_scripts]]></wp:meta_key>
+			<wp:meta_value><![CDATA[field_571e8f3ef5dea]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_yoast_wpseo_primary_category]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Fun with Date Formatting</title>
+		<link>https://www.cnxcorp.com/2014/02/20/fun-date-formatting/</link>
+		<pubDate>Thu, 20 Feb 2014 18:36:09 +0000</pubDate>
+		<dc:creator><![CDATA[rmilone]]></dc:creator>
+		<guid isPermaLink="false">https://www.cnxcorp.com/?p=977</guid>
+		<description></description>
+		<content:encoded><![CDATA[As an IBM i developer using Valence you will often find opportunities to create apps containing grids with date columns.  In the RPG world, dates are typically stored in physical files using date-type fields with data in *ISO format.   So when it comes time to display those dates in your grid, it’s tempting and easy to leave them in that default format.  But not all users are as comfortable working with YYYY-MM-DD dates as we developers are, so transforming the dates into a format they’re more accustomed to may well be worth your time.
+
+It’s certainly possible to make your RPG program handle the date formatting in your app, sending the data to the browser as strings in the desired format.  But for Valence apps we generally recommend you leave the dates in *ISO format, which is the format an unmodified VVOUT uses, then let the front end handle the date formatting for the interface.  The key is making sure your front-end code is aware of the *ISO-formatted dates it will be receiving from your RPG program.
+
+Dates are interesting animals in the JavaScript world, in that each date represents a precise moment in time measured down to the millisecond -- more akin to what we think of as timestamp fields on IBM i.  A Date object in JavaScript actually consists of a large integer value that represents the number of milliseconds elapsed since midnight on January 1, 1970.   The valid range is -100,000,000 to +100,000,000 days from that date, a span of about 274,000 years, which should be just about sufficient to cover the needs of most apps (up until our sun goes supernova).
+
+Date() can be used as a constructor to create Date objects in JavaScript.  Some examples of creating a Date object variable for particular date values are:
+
+<code> var d1 = new Date(); // sets current date/time
+var d2 = new Date(‘2014-03-01’);
+var d3 = new Date(‘March 1, 2014 13:20:00’);
+</code>
+
+The date interpreter is fairly flexible.  You could abbreviate the month, truncate the year, and a number of other permutations and still get a valid Date object value (see examples <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/parse">here</a>).  There is one very important thing to keep in mind with the date assignment, though: <b>if you do not specify a time when constructing a date, then it is assumed you mean midnight GMT</b>.  So unless you happen to be located in the UK, this may give you unexpected results for a date, in many cases <i>subtracting</i> a day from the expected date.  For example, here in Chicago, which is 6 time zones west of GMT 0000, if one were to use the “d2” example above the results might be a little unexpected.
+
+Let’s try it in the browser console and see:
+
+<code>&gt; var d2 = new Date(‘2014-03-01’);
+undefined
+&gt; d2
+Fri Feb 28 2014 18:00:00 GMT-0600 (CST)
+</code>
+
+See what happened there?  Remember, JavaScript Dates include not just a date but also a time, and since no time was included on the date assignment for d2 it assumed we meant midnight GMT.  Thus d2’s calendar date, viewed in the Central time zone of the US, is actually a day <i>prior</i> to what we assigned (6 hours before midnight GMT).
+
+So to work around this characteristic of JavaScript date assignment, we need to be sure we set the appropriate time-of-day in conjunction with our date.  As with many things in JavaScript, there are all sorts of approaches to this, but our favorite is to use the <a href="http://docs.sencha.com/extjs/4.2.2/#!/api/Ext.Date-method-parse">Ext.Date.parse</a> method.  This will take a date and properly parse it into a Date object using a specified date format and the local time zone (unless a specific time zone is passed, which we won't be doing).  So back to our browser console we go to see this function in action with our *ISO date:
+
+<code>&gt; dt = Ext.Date.parse(‘2013-03-01’,’Y-m-d’);
+Fri Mar 01 2013 00:00:00 GMT-0600 (CST)
+</code>
+
+Ah, that’s more like it!  Now that we have a Date object containing a date based on midnight local time, we can use a utility function to express it in any date format we like and get the results we expect.
+
+So the process of using an IBM i *ISO-formatted date variable in JavaScript entails parsing the IBM i date into a Date object variable <b>based on the local time zone</b>, and converting that Date object into a string in the desired format.  Inside an Ext JS grid, you could place this logic inside a renderer in the grid view for each date column.  The code would look something like this:
+
+<code>renderer: function(value) {
+var dt = Ext.Date.parse(value,’Y-m-d’);  // convert IBM i ISO date to JavaScript Date
+return Ext.Date.format(dt, ‘m/d/Y’);  // convert JavaScript Date to MM/DD/YYYY
+}</code>
+
+Here we have the Ext.Date.parse method taking the YYYY-MM-DD value and converting it into the “dt” Date object, then we’re using Ext.Date.format to convert “dt” into a string in MM/DD/YYYY format.
+
+You could also use a similar approach to convert IBM i timestamp fields to dates.  For example, to convert a timestamp like "2014-03-01-13.45.12.025000" into a date:
+
+<code>renderer: function(value) {
+var dt = Ext.Date.parse(value,’Y-m-d-H.i.s.u’);
+return Ext.Date.format(dt, ‘m/d/Y’);
+}</code>
+
+Ext.Date.format can be used to show in a myriad of different formats using special substitution characters that represent portions of the date and time.  For example, our 2014-03-01 date could be rendered as follows:
+‘m/d/Y’ = 03/01/2014
+‘d-m-Y’ = 01/03/2014
+‘j.m.y’ = 1.03.14
+‘F j, Y’ = March 1, 2014
+‘M j, Y H:i’ = Mar 1, 2014 13:45
+
+And the formatting possibilities go far beyond these examples.  See the <a href="http://docs.sencha.com/extjs/4.2.2/#!/api/Ext.Date">Ext.Date</a> reference for the full list of available substitution characters.
+
+Happy formatting!]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>977</wp:post_id>
+		<wp:post_date><![CDATA[2014-02-20 18:36:09]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2014-02-20 18:36:09]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[fun-date-formatting]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="ibm-i"><![CDATA[IBM i]]></category>
+		<category domain="category" nicename="tip-of-the-month"><![CDATA[Tip of the Month]]></category>
+		<category domain="category" nicename="valence"><![CDATA[Valence]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[6]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[dsq_thread_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2295027894]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Valence 4.0 is Coming March 17th!</title>
+		<link>https://www.cnxcorp.com/2014/03/01/valence-4-0-coming-march-17th/</link>
+		<pubDate>Sat, 01 Mar 2014 06:46:11 +0000</pubDate>
+		<dc:creator><![CDATA[rswanson]]></dc:creator>
+		<guid isPermaLink="false">https://www.cnxcorp.com/?p=994</guid>
+		<description></description>
+		<content:encoded><![CDATA[We're just two weeks away from the official release of Valence 4.0 and we're super excited to introduce this new framework to the IBM i community!  Many thanks to the handful of Beta testers we've been working with over the past month to help ensure the installation and operation of Valence 4.0 is as smooth as it can possibly be.
+
+With the sizeable investment we've made in streamlining the user interface for this release, we believe you'll find Valence 4.0 to be a huge hit with your IBM i users as you roll it out.  But it's not just the end users who stand to benefit from this release -- there's plenty for developers too, particularly those who are relatively new to the framework.  As <a href="http://www.sencha.com/">Sencha</a> has made it a priority to shorten the learning curve for <a href="http://www.sencha.com/products/extjs/">Ext JS</a> and <a href="http://www.sencha.com/products/touch/">Sencha Touch</a> development with <a href="http://www.sencha.com/products/architect/">Sencha Architect</a>, beginning with this release we're making it a priority to incorporate Sencha Architect functionality into Valence.  Current Valence 3.2 developers will especially appreciate the new helper features we've added to 4.0 to facilitate importing data models from IBM i.  This means you can take the formatted output of your RPG programs and create a model and proxy that can be inserted directly into either Sencha Architect or your front-end source editor.  We have many more plans for further Architect integration in forthcoming updates to the Valence Framework.
+
+All new Valence 4.0 Enterprise licensees will get a single developer license to Sencha Architect 3 as part of their purchase.  Existing Valence 3.2 Enterprise licensees who are current on maintenance are also entitled to an Architect license.  Those who have already purchased Architect directly from Sencha will be entitled to a credit for the amount paid.  <a href="https://www.cnxcorp.com/about/support/">Contact CNX</a> for further details.
+
+In conjunction with our new focus on using Sencha Architect to more quickly build out advanced Valence Apps, Nitro App Builder will be renamed to <i>Nitro Query </i>when Valence 4.0 is released.<i>  </i>This new name better reflects its intended purpose enabling developers and power users to build queries and dashboard apps over IBM i data without any programming.   We plan to continue adding innovative features to Nitro Query in upcoming releases.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>994</wp:post_id>
+		<wp:post_date><![CDATA[2014-03-01 06:46:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2014-03-01 06:46:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[valence-4-0-coming-march-17th]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="post_tag" nicename="ext-js"><![CDATA[Ext JS]]></category>
+		<category domain="post_tag" nicename="ibm-i"><![CDATA[IBM i]]></category>
+		<category domain="post_tag" nicename="nitro-query"><![CDATA[Nitro Query]]></category>
+		<category domain="post_tag" nicename="rpg"><![CDATA[RPG]]></category>
+		<category domain="post_tag" nicename="sencha"><![CDATA[sencha]]></category>
+		<category domain="post_tag" nicename="sencha-architect-3"><![CDATA[Sencha Architect 3]]></category>
+		<category domain="category" nicename="valence"><![CDATA[Valence]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[6]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[dsq_thread_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2339150016]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Last Chance to Save on Valence Enterprise</title>
+		<link>https://www.cnxcorp.com/2014/03/10/last-chance-save-valence-enterprise/</link>
+		<pubDate>Mon, 10 Mar 2014 16:10:10 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://www.cnxcorp.com/?p=1003</guid>
+		<description></description>
+		<content:encoded><![CDATA[If you've been trialing Valence 3.2's Enterprise features, or using the Valence Framework under the free Community Developer license but considering upgrading to Valence Enterprise, here's one factor to keep in mind: In conjunction with the Valence 4.0 release and its myriad new features, the price for Valence Enterprise will essentially <em>double</em>, with additional costs for installing Valence Enterprise on multiple partitions.
+
+But if your company purchases Valence 3.2 Enterprise prior to the Valence 4.0 release date of March 17, you will lock in the current 3.2 pricing and policies and get a free upgrade to 4.0. In other words, you'll be able to install Valence 4.0 Enterprise on unlimited partitions for the price of a single 3.2 Enterprise License.
+
+<a href="/store/" target="_blank">Buy Enterprise Now</a>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1003</wp:post_id>
+		<wp:post_date><![CDATA[2014-03-10 16:10:10]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2014-03-10 16:10:10]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[last-chance-save-valence-enterprise]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="category" nicename="valence"><![CDATA[Valence]]></category>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[dsq_thread_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2401802653]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+</channel>
+</rss>
